@@ -62,6 +62,17 @@
     <string name="import_noise_model_title">匯入降噪模型</string>
     <string name="import_noise_model_summary">格式為 .c</string>
 
+    <!-- AGC 顯示除錯數據 -->
+    <string name="show_debug_data_title">顯示除錯數據</string>
+
+    <!-- AGC 顯示對焦數據 -->
+    <string name="show_focus_data_title">顯示對焦數據</string>
+    <string name="show_focus_data_summary">如果焦點控制不準確，可以在此處修正數據</string>
+
+    <!-- AGC 混色器 -->
+    <string name="cct_colormix_button">混色器</string>
+    <string name="cct_colormix_button_summary">在取景機中調整顏色</string>
+
     <!-- AGC 關於我們-->
     <string name="pref_about_us_title">關於我們</string>
     <string name="pref_about_us_summary">AGC 工具包連結、最新動態</string>
@@ -87,7 +98,7 @@
     <string name="brand">品牌</string>
     <string name="hardware">硬體</string>
     <string name="board">CPU</string>
-    <string name="android_os">安卓版本</string>
+    <string name="android_os">Android 版本</string>
     <string name="sdk">SDK 版本</string>
     <string name="fingerprint">裝置指紋（辨識碼）</string>
 
