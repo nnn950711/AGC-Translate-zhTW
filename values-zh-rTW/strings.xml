@@ -1,6 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- AGC 選項文本 -->
+    <string name="all_agc_title">自訂</string>
+    <string name="all_default_auto">自動</string>
+    <string name="global_agc_title">全域</string>
+    <string name="c2a_title">硬體等級</string>
+    <string name="device_title">基礎機型</string>
+
+    <!-- AGC 主介面的選項-加載設定 -->
+    <string name="select_config">選擇設定</string>
+    <string name="select_config_ignore_lens">兼容鏡頭</string>
+    
+    <string name="agc_config_load_btn_title">加載設定</string>
+    <string name="agc_config_load_summary">可以在主介面的選項窗口中選擇 “加載設定” 按鈕加載設定，格式為 .xml 或 .agc</string>
+    <string name="agc_config_load_title">匯入設定</string>
+    <string name="agc_config_load_xml_summary">格式為 .xml 或 .agc</string>
+    <string name="agc_config_load_xml_title">加載自訂 XML</string>
+
+    <!-- AGC 自訂文件 -->
+    <string name="custom_file_setting_title">自訂文件</string>
+    <string name="custom_file_setting_summary">設定檔、LUT、自訂庫、白平衡、降噪模型</string>
+    <string name="custom_file_setting84_summary">設定檔、自訂庫、白平衡、降噪模型</string>
+
+    <!-- AGC 自訂文件-設定檔 -->
+    <string name="agc_config_title">設定檔</string>
+    <string name="agc_config_summary">保存和加載 XML 設定檔</string>
+
+    <!-- AGC 自訂文件-設定檔-暱稱 -->
+    <string name="agc_nickname_title">暱稱</string>
+    <string name="agc_nickname_summary">添加你的暱稱</string>
+
+    <!-- AGC 自訂文件-設定檔-更新日誌 -->
+    <string name="agc_changelog_title">更新日誌</string>
+    <string name="agc_changelog_summary">添加你的 XML 更新日誌</string>
+
+    <!-- AGC 自訂文件-設定檔-匯入設定檔 -->
+    <string name="agc_config_import_title">匯入設定檔</string>
+    <string name="agc_config_imported">設定檔已匯入</string>
+    <string name="agc_config_imported_to">設定檔被匯入到 %1$s</string>
+    <string name="agc_config_import_from">"匯入設定檔形式：%1$s"</string>
+    <string name="agc_config_import_failed">匯入 XML 失敗！\n來自文件：%1$s</string>
+
+    <!-- AGC 自訂文件-設定檔-保存設定 -->
+    <string name="agc_config_save_title">保存設定</string>
+    <string name="agc_config_save_summary">配置文件保存目錄：/Download/AGC.%1$s/configs/</string>
+    <string name="config_successfully">設定檔保存成功</string>
+
+    <!-- AGC 自訂文件-自訂庫 -->
+    <string name="custom_lib_setting_title">自訂庫</string>
+
+    <!-- AGC 自訂文件-自訂庫-加載 -->
+    <string name="load_libs_title">加載自訂庫</string>
+    <string name="load_libs_summary">格式為 .so</string>
+
+    <!-- AGC 自訂文件-自訂庫-刪除 -->
+    <string name="delete_libs_title">刪除自訂庫</string>
+
+    <!-- AGC 自訂文件-自訂庫-降噪模型 -->
+    <string name="noise_model_title">降噪模型</string>
+    <string name="import_noise_model_title">匯入降噪模型</string>
+    <string name="import_noise_model_summary">格式為 .c</string>
+
+    <!-- AGC 關於我們-->
+    <string name="pref_about_us_title">關於我們</string>
+    <string name="pref_about_us_summary">AGC 工具包連結、最新動態</string>
+    <string name="pref_lead_developer_title">開發者</string>
+    <string name="pref_news_title">最新動態</string>
+    <string name="pref_news_summary">隨時了解更新和其他新聞</string>
+    <string name="pref_thanks_for_title">感謝幫忙</string>
+    <string name="pref_thanks_for_summary">感謝那些幫助我製作這個模組的開發者</string>
+    <string name="buy_me_a_coffee">請我喝杯咖啡</string>
+    <string name="pref_gcamtools_title">點擊下載 AGC 工具包</string>
+    <string name="pref_gcamtools_summary">AGC 工具包支持使用 LUT 處理照片、添加水印、調整設定、查看 libpatch 書籤</string>
+
+    <!-- AGC 開發者設定-->
+    <string name="pref_developer_settings">開發者設定</string>
+
+    <!-- AGC 裝置資訊 -->
+    <string name="device_info">裝置資訊</string>
+    <string name="device_info_summary">查看你的裝置資訊</string>
+    <string name="version">相機版本</string>
+    <string name="manufacturer">製造商</string>
+    <string name="device">裝置</string>
+    <string name="model">型號</string>
+    <string name="brand">品牌</string>
+    <string name="hardware">硬體</string>
+    <string name="board">CPU</string>
+    <string name="android_os">安卓版本</string>
+    <string name="sdk">SDK 版本</string>
+    <string name="fingerprint">裝置指紋（辨識碼）</string>
+
     <!-- 原 GCAM 的字串-->
     <string name="abc_action_bar_up_description">向上瀏覽</string>
     <string name="abc_action_mode_done">完成</string>
@@ -1054,80 +1144,4 @@
     <string name="zoom_ffc_wide_tooltip">縮小畫面可拍出視野更寬廣的自拍照</string>
     <string name="zoom_minus_desc">縮小</string>
     <string name="zoom_plus_desc">放大</string>
-
-    <!-- AGC 選項文本 -->
-    <string name="all_agc_title">自訂</string>
-    <string name="all_default_auto">自動</string>
-    <string name="global_agc_title">全域</string>
-    <string name="c2a_title">硬體等級</string>
-    <string name="device_title">基礎機型</string>
-
-    <!-- AGC 自訂文件 -->
-    <string name="custom_file_setting_title">自訂文件</string>
-    <string name="custom_file_setting_summary">設定檔、LUT、自訂庫、白平衡、降噪模型</string>
-    <string name="custom_file_setting84_summary">設定檔、自訂庫、白平衡、降噪模型</string>
-
-    <!-- AGC 設定檔 -->
-    <string name="agc_config_title">設定檔</string>
-    <string name="agc_config_summary">保存和加載 XML 設定檔</string>
-
-    <!-- AGC 設定檔-暱稱 -->
-    <string name="agc_nickname_title">暱稱</string>
-    <string name="agc_nickname_summary">添加你的暱稱</string>
-
-    <!-- AGC 設定檔-更新日誌 -->
-    <string name="agc_changelog_title">更新日誌</string>
-    <string name="agc_changelog_summary">添加你的 XML 更新日誌</string>
-
-    <!-- AGC 設定檔-導入設定檔 -->
-    <string name="agc_config_import_title">導入設定檔</string>
-    <string name="agc_config_imported">設定檔已導入</string>
-    <string name="agc_config_imported_to">設定檔被導入到 %1$s</string>
-    <string name="agc_config_import_from">"導入設定檔形式：%1$s"</string>
-    <string name="agc_config_import_failed">導入 XML 失敗！\n來自文件：%1$s</string>
-
-    <!-- AGC 設定檔-保存設定 -->
-    <string name="agc_config_save_title">保存設定</string>
-    <string name="agc_config_save_summary">配置文件保存目錄：/Download/AGC.%1$s/configs/</string>
-    <string name="config_successfully">設定檔保存成功</string>
-
-    <!-- AGC 主介面的選項-加載設定 -->
-    <string name="select_config">選擇設定</string>
-    <string name="select_config_ignore_lens">兼容鏡頭</string>
-    
-    <string name="agc_config_load_btn_title">加載設定</string>
-    <string name="agc_config_load_summary">可以在主介面的選項窗口中選擇 “加載設定” 按鈕加載設定，格式為 .xml 或 .agc</string>
-    <string name="agc_config_load_title">導入設定</string>
-    <string name="agc_config_load_xml_summary">格式為 .xml 或 .agc</string>
-    <string name="agc_config_load_xml_title">加載自訂 XML</string>
-
-    <!-- AGC 自訂庫 -->
-    <string name="custom_lib_setting_title">自訂庫</string>
-
-    <!-- AGC 自訂庫-加載 -->
-    <string name="load_libs_title">加載自訂庫</string>
-    <string name="load_libs_summary">格式為 .so</string>
-
-    <!-- AGC 自訂庫-刪除 -->
-    <string name="delete_libs_title">刪除自訂庫</string>
-
-    <!-- AGC 關於我們-->
-    <string name="pref_about_us_title">關於我們</string>
-    <string name="pref_about_us_summary">AGC 工具包連結、最新動態</string>
-
-    <!-- AGC 開發者設定-->
-    <string name="pref_developer_settings">開發者設定</string>
-
-    <!-- AGC 裝置資訊 -->
-    <string name="device_info">裝置資訊</string>
-    <string name="device_info_summary">查看你的裝置資訊</string>
-    <string name="version">相機版本</string>
-    <string name="device">裝置</string>
-    <string name="model">型號</string>
-    <string name="brand">品牌</string>
-    <string name="hardware">硬體</string>
-    <string name="board">CPU</string>
-    <string name="android_os">安卓版本</string>
-    <string name="sdk">SDK 版本</string>
-    <string name="fingerprint">裝置指紋（辨識碼）</string>
 </resources>
