@@ -62,16 +62,20 @@
     <string name="import_noise_model_title">匯入降噪模型</string>
     <string name="import_noise_model_summary">格式為 .c</string>
 
+    <!-- AGC 曲線按鈕 -->
+    <string name="curve_button">曲線按鈕</string>
+    <string name="curve_button_summary">在取景器中調整曲線（長按以彈出設定窗口）</string>
+
     <!-- AGC 顯示除錯數據 -->
     <string name="show_debug_data_title">顯示除錯數據</string>
 
     <!-- AGC 顯示對焦數據 -->
     <string name="show_focus_data_title">顯示對焦數據</string>
-    <string name="show_focus_data_summary">如果焦點控制不準確，可以在此處修正數據</string>
+    <string name="show_focus_data_summary">如果焦點控制不準確可以在此處修正數據</string>
 
     <!-- AGC 混色器 -->
     <string name="cct_colormix_button">混色器</string>
-    <string name="cct_colormix_button_summary">在取景機中調整顏色</string>
+    <string name="cct_colormix_button_summary">在取景器中調整顏色</string>
 
     <!-- AGC 關於我們-->
     <string name="pref_about_us_title">關於我們</string>
