@@ -1,93 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- AGC 選項文本 -->
-    <string name="all_agc_title">自訂</string>
-    <string name="all_default_auto">自動</string>
+    <!-- AGC 全域 -->
     <string name="global_agc_title">全域</string>
-    <string name="c2a_title">硬體等級</string>
-    <string name="device_title">基礎機型</string>
 
-    <!-- AGC 主介面的選項-加載設定 -->
-    <string name="select_config">選擇設定</string>
-    <string name="select_config_ignore_lens">兼容鏡頭</string>
-    
-    <string name="agc_config_load_btn_title">加載設定</string>
-    <string name="agc_config_load_summary">可以在主介面的選項窗口中選擇 “加載設定” 按鈕加載設定，格式為 .xml 或 .agc</string>
-    <string name="agc_config_load_title">匯入設定</string>
-    <string name="agc_config_load_xml_summary">格式為 .xml 或 .agc</string>
-    <string name="agc_config_load_xml_title">加載自訂 XML</string>
+    <!-- AGC 裝置介面 -->
+    <string name="device_title">裝置介面</string>
+    <string name="sailfish">Pixel (Sailfish)</string>
+    <string name="marlin">Pixel XL (Marlin)</string>
+    <string name="walleye">Pixel 2 (Walleye)</string>
+    <string name="taimen">Pixel 2 XL (Taimen)</string>
+    <string name="blueline">Pixel 3 (Blueline)</string>
+    <string name="crosshatch">Pixel 3 XL (Crosshatch)</string>
+    <string name="sargo">Pixel 3a (Sargo)</string>
+    <string name="bonito">Pixel 3a XL (Bonito)</string>
+    <string name="flame">Pixel 4 (Flame)</string>
+    <string name="coral">Pixel 4 XL (Coral)</string>
+    <string name="sunfish">Pixel 4a (Sunfish)</string>
+    <string name="bramble">Pixel 4a 5G (Bramble)</string>
+    <string name="redfin">Pixel 5 (Redfin)</string>
+    <string name="barbet">Pixel 5a 5G (Barbet)</string>
+    <string name="oriole">Pixel 6 (Oriole)</string>
+    <string name="raven">Pixel 6 Pro (Raven)</string>
+    <string name="bluejay">Pixel 6a (Bluejay)</string>
+    <string name="panther">Pixel 7 (Panther)</string>
+    <string name="cheetah">Pixel 7 Pro (Cheetah)</string>
+    <string name="lynx">Pixel 7a (lynx)</string>
+    <string name="felix">Pixel Fold (felix)</string>
+    <string name="pipit">Pixel Notepad (pipit)</string>
+    <string name="tangor">Pixel Tablet (tangor)</string>
+    <string name="husky">Pixel 8 Pro (husky)</string>
+    <string name="shiba">Pixel 8 (shiba)</string>
+
+    <!-- AGC 硬體等級 -->
+    <string name="c2a_title">硬體等級</string>
+    <string name="c2a_full">完整</string>
+    <string name="c2a_level">等級 3</string>
+    <string name="c2a_level_plus">等級 3+</string>
+
+    <!-- AGC 自訂 -->
+    <string name="all_agc_title">自訂</string>
+
+    <!-- AGC 鏡頭設定 -->
+    <string name="lens_setting_title">鏡頭設定</string>
+    <string name="lens_setting_summary">你可以在這裡單獨設定每個鏡頭</string>
+    <string name="lens_title_main">主鏡頭</string>
+    <string name="lens_title_wide">廣角鏡</string>
+    <string name="lens_title_front">前鏡頭</string>
+    <string name="lens_title_micro">微距鏡</string>
+    <string name="lens_title_tele">長焦鏡</string>
+    <string name="lens_list_category_title">所有鏡頭</string>
 
     <!-- AGC 自訂文件 -->
     <string name="custom_file_setting_title">自訂文件</string>
-    <string name="custom_file_setting_summary">設定檔、LUT、自訂庫、白平衡、降噪模型</string>
-    <string name="custom_file_setting84_summary">設定檔、自訂庫、白平衡、降噪模型</string>
+    <string name="custom_file_setting_summary">設定、LUT、自訂庫、白平衡、降噪模型</string>
+    <string name="custom_file_setting84_summary">設定、自訂庫、白平衡、降噪模型</string>
 
-    <!-- AGC 自訂文件-設定檔 -->
+    <!-- AGC 設定檔 -->
     <string name="agc_config_title">設定檔</string>
-    <string name="agc_config_summary">保存和加載 XML 設定檔</string>
 
-    <!-- AGC 自訂文件-設定檔-暱稱 -->
+    <!-- AGC 暱稱 -->
     <string name="agc_nickname_title">暱稱</string>
-    <string name="agc_nickname_summary">添加你的暱稱</string>
+    <string name="agc_nickname_summary">新增你的暱稱</string>
 
-    <!-- AGC 自訂文件-設定檔-更新日誌 -->
+    <!-- AGC 更新日誌 -->
     <string name="agc_changelog_title">更新日誌</string>
-    <string name="agc_changelog_summary">添加你的 XML 更新日誌</string>
+    <string name="agc_changelog_summary">新增你的 XML 更新日誌</string>
 
-    <!-- AGC 自訂文件-設定檔-匯入設定檔 -->
-    <string name="agc_config_import_title">匯入設定檔</string>
-    <string name="agc_config_imported">設定檔已匯入</string>
-    <string name="agc_config_imported_to">設定檔被匯入到 %1$s</string>
-    <string name="agc_config_import_from">"匯入設定檔形式：%1$s"</string>
-    <string name="agc_config_import_failed">匯入 XML 失敗！\n來自文件：%1$s</string>
+    <!-- AGC 保存設定檔 -->
+    <string name="agc_config_save_title">保存</string>
+    <string name="agc_config_save_summary">設定檔會保存在 /Download/AGC.%1$s/configs/ 資料夾中</string>
 
-    <!-- AGC 自訂文件-設定檔-保存設定 -->
-    <string name="agc_config_save_title">保存設定</string>
-    <string name="agc_config_save_summary">配置文件保存目錄：/Download/AGC.%1$s/configs/</string>
-    <string name="config_successfully">設定檔保存成功</string>
+    <!-- AGC 匯入設定檔 -->
+    <string name="agc_config_load_title">匯入</string>
+    <string name="agc_config_load_summary">可以在主介面上的選項窗口中選擇 “加載設定” 按鈕以加載設定（格式為 .xml 或 .agc）</string>
 
-    <!-- AGC 自訂文件-自訂庫 -->
-    <string name="custom_lib_setting_title">自訂庫</string>
+    <!-- AGC 擴展設定 -->
+    <string name="advanced_settings_extends_title">擴展設定</string>
 
-    <!-- AGC 自訂文件-自訂庫-加載 -->
-    <string name="load_libs_title">加載自訂庫</string>
-    <string name="load_libs_summary">格式為 .so</string>
+    <!-- AGC 焦點追蹤-->
+    <string name="track_focus_title">焦點追蹤</string>
+    <string name="track_focus_summary">用於拍攝移動的對象</string>
 
-    <!-- AGC 自訂文件-自訂庫-刪除 -->
-    <string name="delete_libs_title">刪除自訂庫</string>
+    <!-- AGC 焦點鎖定時長 -->
+    <string name="focus_lock_time_title">焦點鎖定時長</string>
+    <string name="focus_lock_time_summary">對焦後鎖定的持續時間</string>
+    <string name="focus_lock_time_default">預設</string>
+    <string name="focus_lock_time_4">4 秒</string>
+    <string name="focus_lock_time_6">6 秒</string>
+    <string name="focus_lock_time_8">8 秒</string>
+    <string name="focus_lock_time_12">12 秒</string>
+    <string name="focus_lock_time_16">16 秒</string>
 
-    <!-- AGC 自訂文件-自訂庫-降噪模型 -->
-    <string name="noise_model_title">降噪模型</string>
-    <string name="import_noise_model_title">匯入降噪模型</string>
-    <string name="import_noise_model_summary">格式為 .c</string>
+    <!-- AGC 覆蓋最大變焦 -->
+    <string name="max_zoom_title">覆蓋最大變焦（0 代表：不覆蓋）</string>
+    <string name="max_zoom_dialog_title">變焦值</string>
+
+    <!-- AGC 絕佳鏡頭與微影片 -->
+    <string name="enabled_motion_title">絕佳鏡頭與微影片</string>
+    <string name="enabled_motion_summary">在選項卡中新增絕佳鏡頭選項，長按快門鍵可以錄製微影片並且同時會顯示水平線</string>
+
+    <!-- AGC 實驗性設定 -->
+    <string name="screen_experimental_title">實驗性設定</string>
+    <string name="disabled_discard_frames_title">停用丟棄幀</string>
+    <string name="disabled_discard_frames_summary">提高照片的清晰度，但由於無法修復移動的主體，所以可能會導致殘影</string>
 
     <!-- AGC 曲線按鈕 -->
     <string name="curve_button">曲線按鈕</string>
-    <string name="curve_button_summary">在取景器中調整曲線（長按以彈出設定窗口）</string>
-
-    <!-- AGC 顯示除錯數據 -->
-    <string name="show_debug_data_title">顯示除錯數據</string>
-
-    <!-- AGC 顯示對焦數據 -->
-    <string name="show_focus_data_title">顯示對焦數據</string>
-    <string name="show_focus_data_summary">如果焦點控制不準確可以在此處修正數據</string>
+    <string name="curve_button_summary">在取景器中調整曲線（長按進行調整）</string>
+    <string name="tone_curve">色調</string>
+    <string name="gamma_curve">伽瑪</string>
 
     <!-- AGC 混色器 -->
     <string name="cct_colormix_button">混色器</string>
     <string name="cct_colormix_button_summary">在取景器中調整顏色</string>
+    <string name="color_mix">混色器</string>
+    <string name="color_mix_done">完成</string>
+    <string name="color_mix_hue">色相</string>
+    <string name="color_mix_luminance">亮度</string>
+    <string name="color_mix_saturation">飽和度</string>
+
+    <!-- AGC 顯示偵錯數據-->
+    <string name="show_debug_data_title">顯示偵錯數據</string>
+
+    <!-- AGC 顯示對焦數據-->
+    <string name="show_focus_data_title">顯示對焦數據</string>
+    <string name="show_focus_data_summary">焦點控制不準確時可以在此處修正數據</string>
 
     <!-- AGC 關於我們-->
+    <string name="pref_gcamtools_title">點擊下載 AGC 工具包</string>
+    <string name="pref_gcamtools_summary">AGC 工具包支持使用 LUT 處理照片、添加水印、調整配置、查看 libpatch 書籤</string>
     <string name="pref_about_us_title">關於我們</string>
-    <string name="pref_about_us_summary">AGC 工具包連結、最新動態</string>
+    <string name="pref_about_us_summary">AGC 工具包的連結、最新動態</string>
     <string name="pref_lead_developer_title">開發者</string>
     <string name="pref_news_title">最新動態</string>
     <string name="pref_news_summary">隨時了解更新和其他新聞</string>
     <string name="pref_thanks_for_title">感謝幫忙</string>
     <string name="pref_thanks_for_summary">感謝那些幫助我製作這個模組的開發者</string>
     <string name="buy_me_a_coffee">請我喝杯咖啡</string>
-    <string name="pref_gcamtools_title">點擊下載 AGC 工具包</string>
-    <string name="pref_gcamtools_summary">AGC 工具包支持使用 LUT 處理照片、添加水印、調整設定、查看 libpatch 書籤</string>
 
     <!-- AGC 開發者設定-->
     <string name="pref_developer_settings">開發者設定</string>
@@ -95,7 +145,7 @@
     <!-- AGC 裝置資訊 -->
     <string name="device_info">裝置資訊</string>
     <string name="device_info_summary">查看你的裝置資訊</string>
-    <string name="version">相機版本</string>
+    <string name="version">版本</string>
     <string name="manufacturer">製造商</string>
     <string name="device">裝置</string>
     <string name="model">型號</string>
