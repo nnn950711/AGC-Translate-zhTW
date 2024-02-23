@@ -44,12 +44,65 @@
     <!-- AGC 鏡頭設定 -->
     <string name="lens_setting_title">鏡頭設定</string>
     <string name="lens_setting_summary">你可以在這裡單獨設定每個鏡頭</string>
+    <string name="lens_summary">系統 ID = %1$s</string>
+    <string name="lens_info_name">名稱</string>
+    <string name="lens_info_focal_length">焦距</string>
+    <string name="lens_info_aperture">光圈</string>
+    <string name="lens_info_angle">角度</string>
+    <string name="lens_info_sensor_size">感測器尺寸</string>
+    <string name="lens_info_raw_size">Raw 尺寸</string>
+
+    <!-- AGC 圖像處理 -->
+    <string name="ptchr_group_title">圖像處理</string>
+    <string name="ptchr_group_summary">用於提高照片質量</string>
+
+    <!-- AGC HDR+ 選項 -->
+    <string name="hdrplus_options_title">HDR+ 選項</string>
+
+    <!-- AGC HDR+ 模型 -->
+    <string name="model_title">HDR+ 模型</string>
+
+    <!-- AGC 合併方法 -->
+    <string name="merge_title">合併方法</string>
+    <string name="merge_auto">自動</string>
+    <string name="merge_0">0 (維納濾波器)</string>
+    <string name="merge_1">1 (軍刀)</string>
+    <string name="merge_2">2 (拜爾空間)</string>
+    <string name="merge_3">3 (RGB 空間)</string>
+    <string name="merge_4">4 (無效)</string>
+
+    <!-- AGC Shasta 係數 -->
+    <string name="shasta_title">Shasta 係數</string>
+    <string name="shasta_summary">包圍曝光 = %s</string>
+    <string name="shasta_def">預設</string>
+    <string name="shasta_off">關閉</string>
+    <string name="shasta_1">抑制綠色噪點 x1</string>
+    <string name="shasta_5">抑制綠色噪點 x5</string>
+    <string name="shasta_10">抑制綠色噪點 x10</string>
+    <string name="shasta_25">抑制綠色噪點 x25</string>
+    <string name="shasta_100">抑制綠色噪點 x100</string>
+    <string name="shasta_500">抑制綠色噪點 x500</string>
+    <string name="shasta_1000">抑制綠色噪點 x1000</string>
+
+    <!-- AGC 鏡頭名稱 -->
+    <string name="lens_title">鏡頭名稱</string>
+
+    <!-- AGC 自訂名稱 -->
+    <string name="lens_custom_name">自訂名稱</string>
+
+    <!-- AGC 全部鏡頭 -->
+    <string name="lens_list_category_title">全部鏡頭</string>
+
+    <!-- AGC 選擇鏡頭 -->
+    <string name="lens_list_title">選擇鏡頭</string>
+    <string name="lens_list_summary">選擇要設定的鏡頭</string>
+
+    <!-- AGC 鏡頭設定(未知) -->
     <string name="lens_title_main">主鏡頭</string>
     <string name="lens_title_wide">廣角鏡</string>
     <string name="lens_title_front">前鏡頭</string>
     <string name="lens_title_micro">微距鏡</string>
     <string name="lens_title_tele">長焦鏡</string>
-    <string name="lens_list_category_title">所有鏡頭</string>
 
     <!-- AGC 自訂文件 -->
     <string name="custom_file_setting_title">自訂文件</string>
@@ -98,7 +151,7 @@
 
     <!-- AGC 絕佳鏡頭與微影片 -->
     <string name="enabled_motion_title">絕佳鏡頭與微影片</string>
-    <string name="enabled_motion_summary">在選項卡中新增絕佳鏡頭選項，長按快門鍵可以錄製微影片並且同時會顯示水平線</string>
+    <string name="enabled_motion_summary">在選項卡中新增絕佳鏡頭選項，長按快門鍵可以錄製微影片並且同時顯示水平儀</string>
 
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
@@ -120,14 +173,17 @@
     <string name="color_mix_luminance">亮度</string>
     <string name="color_mix_saturation">飽和度</string>
 
-    <!-- AGC 顯示偵錯數據-->
+    <!-- AGC 顯示偵錯數據 -->
     <string name="show_debug_data_title">顯示偵錯數據</string>
 
-    <!-- AGC 顯示對焦數據-->
+    <!-- AGC 顯示對焦數據 -->
     <string name="show_focus_data_title">顯示對焦數據</string>
     <string name="show_focus_data_summary">焦點控制不準確時可以在此處修正數據</string>
 
-    <!-- AGC 關於我們-->
+    <!-- AGC 開發者設定 -->
+    <string name="pref_developer_settings">開發者設定</string>
+
+    <!-- AGC 關於我們 -->
     <string name="pref_gcamtools_title">點擊下載 AGC 工具包</string>
     <string name="pref_gcamtools_summary">AGC 工具包支持使用 LUT 處理照片、添加水印、調整配置、查看 libpatch 書籤</string>
     <string name="pref_about_us_title">關於我們</string>
@@ -138,9 +194,6 @@
     <string name="pref_thanks_for_title">感謝幫忙</string>
     <string name="pref_thanks_for_summary">感謝那些幫助我製作這個模組的開發者</string>
     <string name="buy_me_a_coffee">請我喝杯咖啡</string>
-
-    <!-- AGC 開發者設定-->
-    <string name="pref_developer_settings">開發者設定</string>
 
     <!-- AGC 裝置資訊 -->
     <string name="device_info">裝置資訊</string>
