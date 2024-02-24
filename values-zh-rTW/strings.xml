@@ -56,6 +56,70 @@
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">用於提高照片質量</string>
 
+    <string name="patch_profile_1">設定檔 1</string>
+    <string name="patch_profile_2">設定檔 2</string>
+    <string name="patch_profile_3">設定檔 3</string>
+    <string name="patch_profile_4">設定檔 4</string>
+    <string name="patch_profile_5">設定檔 5</string>
+    <string name="patch_profile_6">設定檔 6</string>
+    <string name="patch_profile_7">設定檔 7</string>
+    <string name="patch_profile_8">設定檔 8</string>
+    <string name="patch_profile_9">設定檔 9</string>
+    <string name="patch_profile_10">設定檔 10</string>
+    <string name="patch_profile_11">設定檔 11</string>
+    <string name="patch_profile_12">設定檔 12</string>
+    <string name="patch_profile_title_setting">設定檔名稱</string>
+    <string name="patch_profile_show">隱藏設定檔</string>
+    
+    <!-- AGC 後期處理 -->
+    <string name="lib_image_processing_title">後期處理</string>
+
+    <!-- AGC 顏色設定 -->
+    <string name="lib_color_settings_title">顏色設定</string>
+
+    <!-- AGC 主要設定 -->
+    <string name="lib_main_settings_title">主要設定</string>
+
+    <!-- AGC 進階設定 -->
+    <string name="lib_advanced_title">進階設定</string>
+
+    <!-- AGC 銳度 -->
+    <string name="lib_sharpness_title">銳度</string>
+
+    <!-- AGC Polysharp 銳化 與 RAISR -->
+    <string name="lib_polysharp_sharpen_and_raisr_title">Polysharp 銳化 與 RAISR</string>
+
+    <!-- AGC 平滑與降噪 -->
+    <string name="smoothing_and_noise">平滑與降噪</string>
+
+    <!-- AGC 軍刀/RGB 空間 -->
+    <string name="lib_sabre_title">軍刀/RGB 空間</string>
+
+    <!-- AGC 處理 -->
+    <string name="lib_processing_title">處理</string>
+
+    <!-- AGC 曝光 -->
+    <string name="lib_exposure_title">曝光</string>
+
+    <!-- AGC 光影 -->
+    <string name="lib_light_and_shadow_title">光影</string>
+
+    <!-- AGC 亮度降噪等級 -->
+    <string name="lib_subtle_noise_reduction_title">亮度降噪等級（合併 1）</string>
+    <string name="lib_subtle_noise_reduction_title_1">亮度降噪等級（合併 2）</string>
+    <string name="lib_subtle_noise_reduction_title_2">亮度降噪等級（合併 3）</string>
+    <string name="lib_subtle_noise_reduction_merge23_title">亮度降噪等級（合併 2/3）</string>
+
+    <!-- AGC 軍刀銳度調整 -->
+    <string name="sabre_sharp_tuning">軍刀銳度調整</string>
+
+    <!-- AGC 自訂參數 -->
+    <string name="custom_patch_title">自訂參數</string>
+    <string name="custom_patch_count_title">自訂參數數量</string>
+
+    <!-- AGC 圖像處理(擴展設定) -->
+    <string name="lib_extended_settings_title">擴展設定</string>
+
     <!-- AGC HDR+ 選項 -->
     <string name="hdrplus_options_title">HDR+ 選項</string>
 
@@ -65,11 +129,11 @@
     <!-- AGC 合併方法 -->
     <string name="merge_title">合併方法</string>
     <string name="merge_auto">自動</string>
-    <string name="merge_0">0 (維納濾波器)</string>
-    <string name="merge_1">1 (軍刀)</string>
-    <string name="merge_2">2 (拜爾空間)</string>
-    <string name="merge_3">3 (RGB 空間)</string>
-    <string name="merge_4">4 (無效)</string>
+    <string name="merge_0">0（維納濾波器）</string>
+    <string name="merge_1">1（軍刀）</string>
+    <string name="merge_2">2（拜爾空間）</string>
+    <string name="merge_3">3（RGB 空間）</string>
+    <string name="merge_4">4（無效的）</string>
 
     <!-- AGC Shasta 係數 -->
     <string name="shasta_title">Shasta 係數</string>
@@ -84,6 +148,32 @@
     <string name="shasta_500">抑制綠色噪點 x500</string>
     <string name="shasta_1000">抑制綠色噪點 x1000</string>
 
+    <!-- AGC HDR+ 的 RAW 格式 -->
+    <string name="raw_title">HDR+ 的 RAW 格式</string>
+    <string name="preview_raw">RAW10</string>
+    <string name="preview_raw_sensor">RAW16</string>
+
+    <!-- AGC Google 感測器邏輯 -->
+    <string name="gcam_lens_logic_title">Google 感測器邏輯</string>
+    <string name="gcam_lens_logic_0">後鏡頭（常規）</string>
+    <string name="gcam_lens_logic_1">前鏡頭（常規）</string>
+    <string name="gcam_lens_logic_2">前鏡頭（超廣角）</string>
+    <string name="gcam_lens_logic_3">前鏡頭（邏輯）</string>
+    <string name="gcam_lens_logic_4">後鏡頭（長焦）</string>
+    <string name="gcam_lens_logic_5">後鏡頭（邏輯）</string>
+    <string name="gcam_lens_logic_6">前鏡頭（紅外線）</string>
+    <string name="gcam_lens_logic_7">後鏡頭（長焦合併）</string>
+    <string name="gcam_lens_logic_8">後鏡頭（超廣角）</string>
+    <string name="gcam_lens_logic_9">後鏡頭（超廣角合併）</string>
+    <string name="gcam_lens_logic_10">後鏡頭（常規合併）</string>
+    <string name="gcam_lens_logic_11">後鏡頭（常規 Remozaiked）</string>
+    <string name="gcam_lens_logic_12">後鏡頭（長焦 Remosaicked）</string>
+    <string name="gcam_lens_logic_13">前鏡頭（次要）</string>
+    <string name="gcam_lens_logic_14">後鏡頭（常規最大解析度）</string>
+    <string name="gcam_lens_logic_15">後鏡頭（長焦最大解析度）</string>
+    <string name="gcam_lens_logic_16">後鏡頭（超廣角最大解析度）</string>
+    <string name="gcam_lens_logic_17">後鏡頭（常規 Roshi）</string>
+
     <!-- AGC 鏡頭名稱 -->
     <string name="lens_title">鏡頭名稱</string>
 
@@ -97,12 +187,28 @@
     <string name="lens_list_title">選擇鏡頭</string>
     <string name="lens_list_summary">選擇要設定的鏡頭</string>
 
+    <!-- AGC 切換按鈕位置 -->
+    <string name="camera_switch_title">切換按鈕位置</string>
+    <string name="camera_switch_right">右側</string>
+    <string name="camera_switch_embed">嵌入到前鏡頭切換</string>
+
+    <!-- AGC 切換前鏡頭後重新啟動 -->
+    <string name="lens_switch_front_restart_title">切換前鏡頭後重新啟動</string>
+    <string name="lens_switch_front_restart_summary">切換後會重新載入設定檔</string>
+
+    <!-- AGC 設定檔數量 -->
+    <string name="patch_profile_count">設定檔數量</string>
+
     <!-- AGC 鏡頭設定(未知) -->
     <string name="lens_title_main">主鏡頭</string>
     <string name="lens_title_wide">廣角鏡</string>
     <string name="lens_title_front">前鏡頭</string>
     <string name="lens_title_micro">微距鏡</string>
     <string name="lens_title_tele">長焦鏡</string>
+
+    <!-- AGC 浮水印設定 -->
+    <string name="pref_watermark_title">浮水印設定</string>
+    <string name="pref_watermark_summary">自訂浮水印</string>
 
     <!-- AGC 自訂文件 -->
     <string name="custom_file_setting_title">自訂文件</string>
@@ -127,6 +233,17 @@
     <!-- AGC 匯入設定檔 -->
     <string name="agc_config_load_title">匯入</string>
     <string name="agc_config_load_summary">可以在主介面上的選項窗口中選擇 “加載設定” 按鈕以加載設定（格式為 .xml 或 .agc）</string>
+
+    <!-- AGC 加載自訂庫 -->
+    <string name="load_libs_title">加載自訂庫</string>
+    <string name="load_libs_summary">格式為 .so</string>
+
+    <!-- AGC 匯入自訂庫 -->
+    <string name="import_libs_title">匯入自訂庫</string>
+    <string name="import_libs_summary">成功匯入之後到 "加載自訂庫" 選擇匯入的庫</string>
+
+    <!-- AGC 刪除自訂庫 -->
+    <string name="delete_libs_title">刪除自訂庫</string>
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
