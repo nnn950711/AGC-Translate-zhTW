@@ -44,7 +44,7 @@
     <!-- AGC 鏡頭設定 -->
     <string name="lens_setting_title">鏡頭設定</string>
     <string name="lens_setting_summary">你可以在這裡單獨設定每個鏡頭</string>
-    <string name="lens_summary">系統 ID = %1$s</string>
+    <string name="lens_summary">系統 ID = %1$s（%2$s）</string>
     <string name="lens_info_name">名稱</string>
     <string name="lens_info_focal_length">焦距</string>
     <string name="lens_info_aperture">光圈</string>
@@ -209,6 +209,42 @@
     <!-- AGC 浮水印設定 -->
     <string name="pref_watermark_title">浮水印設定</string>
     <string name="pref_watermark_summary">自訂浮水印</string>
+
+    <!-- AGC 浮水印類型 -->
+    <string name="pref_watermark_type_setting">浮水印類型</string>
+    <string name="pref_watermark_type_0">Leica</string>
+    <string name="pref_watermark_type_1">Hasselblad</string>
+    <string name="pref_watermark_type_2">Arts Frame</string>
+    <string name="pref_watermark_type_3">Film time</string>
+    <string name="pref_watermark_type_4">Normal</string>
+
+    <!-- AGC 浮水印 Logo -->
+    <string name="pref_watermark_logo_setting">浮水印 Logo</string>
+    <string name="pref_watermark_logo_agc_8.8">AGC 8.8</string>
+    <string name="pref_watermark_logo_agc_8.7">AGC 8.7</string>
+    <string name="pref_watermark_logo_agc_8.6">AGC 8.6</string>
+    <string name="pref_watermark_logo_agc">AGC 8.4</string>
+    <string name="pref_watermark_logo_leica">Leica（萊卡）</string>
+    <string name="pref_watermark_logo_mi">Mi</string>
+    <string name="pref_watermark_logo_huawei">Huawei（華為）</string>
+    <string name="pref_watermark_logo_oneplus">Oneplus（一加）</string>
+    <string name="pref_watermark_logo_oppo">Oppo</string>
+    <string name="pref_watermark_logo_vivo">Vivo</string>
+    <string name="pref_watermark_logo_samsung">Samsung（三星）</string>
+    <string name="pref_watermark_logo_sony">Sony（索尼）</string>
+    <string name="pref_watermark_logo_google">Google</string>
+    <string name="pref_watermark_logo_lenovo">Lenovo（聯想）</string>
+    <string name="pref_watermark_logo_moto">Moto（摩托羅拉）</string>
+    <string name="pref_watermark_logo_realme">Realme（真我）</string>
+    <string name="pref_watermark_logo_iqoo">iQOO</string>
+    <string name="pref_watermark_logo_iqoo12">iQOO 12</string>
+    <string name="pref_watermark_logo_zeiss">ZEISS（蔡司）</string>
+    <string name="pref_watermark_logo_meizu">MEIZU（魅族）</string>
+    <string name="pref_watermark_logo_lg">LG</string>
+    <string name="pref_watermark_logo_zte">ZTE（中興）</string>
+    <string name="pref_watermark_logo_poco">POCO</string>
+    <string name="pref_watermark_logo_nuoio">Nubia（努比亞）</string>
+    <string name="pref_watermark_logo_nothing">Nothing</string>
 
     <!-- AGC 自訂文件 -->
     <string name="custom_file_setting_title">自訂文件</string>
