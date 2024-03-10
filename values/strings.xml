@@ -1771,7 +1771,7 @@ Sets the number of frames to create the final photo. Range(3-48)"</string>
     <string name="lens_mod_options_title">Camera module</string>
     <string name="lens_setting_summary">Here you can configure each lens separately.</string>
     <string name="lens_setting_title">Lens Setting</string>
-    <string name="lens_summary">System ID = %1$s</string>
+    <string name="lens_summary">System ID = %1$s (%2$s)</string>
     <string name="lens_switch_front_restart_summary">Reload configurations on switch</string>
     <string name="lens_switch_front_restart_title">Restart for front switching</string>
     <string name="lens_title">Lens Title</string>
@@ -2086,8 +2086,9 @@ Sabre Sharp = Sabre Sharp Tuning L8"</string>
     <string name="pref_cure_title">Curve</string>
     <string name="pref_dev_filter">Filter items</string>
     <string name="pref_dev_filter_all">Show all</string>
-    <string name="pref_dev_filter_disabled">Show disabled onlys</string>
+    <string name="pref_dev_filter_disabled">Show disabled only</string>
     <string name="pref_dev_filter_enabled">Show enabled only</string>
+    <string name="pref_dev_filter_modified">Show modified only</string>
     <string name="pref_gcamtools_summary">AGC Toolkit support using LUT to process your photos、add watermark、adjust configuration、view libpatch bookmark</string>
     <string name="pref_gcamtools_title">Tab to download AGC Toolkit</string>
     <string name="pref_get_agctoolkit_pro_summary">Tab to download AGC Toolkit Pro to get LUT file</string>
@@ -2127,6 +2128,7 @@ Sabre Sharp = Sabre Sharp Tuning L8"</string>
     <string name="pref_watermark_logo_google">Google</string>
     <string name="pref_watermark_logo_huawei">Huawei</string>
     <string name="pref_watermark_logo_iqoo">IQOO</string>
+    <string name="pref_watermark_logo_iqoo12">IQOO12</string>
     <string name="pref_watermark_logo_leica">Leica</string>
     <string name="pref_watermark_logo_lenovo">Lenovo</string>
     <string name="pref_watermark_logo_lg">LG</string>
