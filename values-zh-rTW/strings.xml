@@ -1,367 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- AGC 全域 -->
-    <string name="global_agc_title">全域</string>
-
-    <!-- AGC 裝置介面 -->
-    <string name="device_title">裝置介面</string>
-    <string name="sailfish">Pixel (Sailfish)</string>
-    <string name="marlin">Pixel XL (Marlin)</string>
-    <string name="walleye">Pixel 2 (Walleye)</string>
-    <string name="taimen">Pixel 2 XL (Taimen)</string>
-    <string name="blueline">Pixel 3 (Blueline)</string>
-    <string name="crosshatch">Pixel 3 XL (Crosshatch)</string>
-    <string name="sargo">Pixel 3a (Sargo)</string>
-    <string name="bonito">Pixel 3a XL (Bonito)</string>
-    <string name="flame">Pixel 4 (Flame)</string>
-    <string name="coral">Pixel 4 XL (Coral)</string>
-    <string name="sunfish">Pixel 4a (Sunfish)</string>
-    <string name="bramble">Pixel 4a 5G (Bramble)</string>
-    <string name="redfin">Pixel 5 (Redfin)</string>
-    <string name="barbet">Pixel 5a 5G (Barbet)</string>
-    <string name="oriole">Pixel 6 (Oriole)</string>
-    <string name="raven">Pixel 6 Pro (Raven)</string>
-    <string name="bluejay">Pixel 6a (Bluejay)</string>
-    <string name="panther">Pixel 7 (Panther)</string>
-    <string name="cheetah">Pixel 7 Pro (Cheetah)</string>
-    <string name="lynx">Pixel 7a (lynx)</string>
-    <string name="felix">Pixel Fold (felix)</string>
-    <string name="pipit">Pixel Notepad (pipit)</string>
-    <string name="tangor">Pixel Tablet (tangor)</string>
-    <string name="husky">Pixel 8 Pro (husky)</string>
-    <string name="shiba">Pixel 8 (shiba)</string>
-
-    <!-- AGC 硬體等級 -->
-    <string name="c2a_title">硬體等級</string>
-    <string name="c2a_full">完整</string>
-    <string name="c2a_level">等級 3</string>
-    <string name="c2a_level_plus">等級 3+</string>
-
-    <!-- AGC 自訂 -->
-    <string name="all_agc_title">自訂</string>
-
-    <!-- AGC 鏡頭設定 -->
-    <string name="lens_setting_title">鏡頭設定</string>
-    <string name="lens_setting_summary">你可以在這裡單獨設定每個鏡頭</string>
-    <string name="lens_summary">系統 ID = %1$s（%2$s）</string>
-    <string name="lens_info_name">名稱</string>
-    <string name="lens_info_focal_length">焦距</string>
-    <string name="lens_info_aperture">光圈</string>
-    <string name="lens_info_angle">角度</string>
-    <string name="lens_info_sensor_size">感測器尺寸</string>
-    <string name="lens_info_raw_size">Raw 尺寸</string>
-
-    <!-- AGC 圖像處理 -->
-    <string name="ptchr_group_title">圖像處理</string>
-    <string name="ptchr_group_summary">用於提高照片質量</string>
-
-    <string name="patch_profile_1">設定檔 1</string>
-    <string name="patch_profile_2">設定檔 2</string>
-    <string name="patch_profile_3">設定檔 3</string>
-    <string name="patch_profile_4">設定檔 4</string>
-    <string name="patch_profile_5">設定檔 5</string>
-    <string name="patch_profile_6">設定檔 6</string>
-    <string name="patch_profile_7">設定檔 7</string>
-    <string name="patch_profile_8">設定檔 8</string>
-    <string name="patch_profile_9">設定檔 9</string>
-    <string name="patch_profile_10">設定檔 10</string>
-    <string name="patch_profile_11">設定檔 11</string>
-    <string name="patch_profile_12">設定檔 12</string>
-    <string name="patch_profile_title_setting">設定檔名稱</string>
-    <string name="patch_profile_show">隱藏設定檔</string>
-    
-    <!-- AGC 後期處理 -->
-    <string name="lib_image_processing_title">後期處理</string>
-
-    <!-- AGC 顏色設定 -->
-    <string name="lib_color_settings_title">顏色設定</string>
-
-    <!-- AGC 主要設定 -->
-    <string name="lib_main_settings_title">主要設定</string>
-
-    <!-- AGC 進階設定 -->
-    <string name="lib_advanced_title">進階設定</string>
-
-    <!-- AGC 銳度 -->
-    <string name="lib_sharpness_title">銳度</string>
-
-    <!-- AGC Polysharp 銳化 與 RAISR -->
-    <string name="lib_polysharp_sharpen_and_raisr_title">Polysharp 銳化 與 RAISR</string>
-
-    <!-- AGC 平滑與降噪 -->
-    <string name="smoothing_and_noise">平滑與降噪</string>
-
-    <!-- AGC 軍刀/RGB 空間 -->
-    <string name="lib_sabre_title">軍刀/RGB 空間</string>
-
-    <!-- AGC 處理 -->
-    <string name="lib_processing_title">處理</string>
-
-    <!-- AGC 曝光 -->
-    <string name="lib_exposure_title">曝光</string>
-
-    <!-- AGC 光影 -->
-    <string name="lib_light_and_shadow_title">光影</string>
-
-    <!-- AGC 亮度降噪等級 -->
-    <string name="lib_subtle_noise_reduction_title">亮度降噪等級（合併 1）</string>
-    <string name="lib_subtle_noise_reduction_title_1">亮度降噪等級（合併 2）</string>
-    <string name="lib_subtle_noise_reduction_title_2">亮度降噪等級（合併 3）</string>
-    <string name="lib_subtle_noise_reduction_merge23_title">亮度降噪等級（合併 2/3）</string>
-
-    <!-- AGC 軍刀銳度調整 -->
-    <string name="sabre_sharp_tuning">軍刀銳度調整</string>
-
-    <!-- AGC 自訂參數 -->
-    <string name="custom_patch_title">自訂參數</string>
-    <string name="custom_patch_count_title">自訂參數數量</string>
-
-    <!-- AGC 圖像處理(擴展設定) -->
-    <string name="lib_extended_settings_title">擴展設定</string>
-
-    <!-- AGC HDR+ 選項 -->
-    <string name="hdrplus_options_title">HDR+ 選項</string>
-
-    <!-- AGC HDR+ 模型 -->
-    <string name="model_title">HDR+ 模型</string>
-
-    <!-- AGC 合併方法 -->
-    <string name="merge_title">合併方法</string>
-    <string name="merge_auto">自動</string>
-    <string name="merge_0">0（維納濾波器）</string>
-    <string name="merge_1">1（軍刀）</string>
-    <string name="merge_2">2（拜爾空間）</string>
-    <string name="merge_3">3（RGB 空間）</string>
-    <string name="merge_4">4（無效的）</string>
-
-    <!-- AGC Shasta 係數 -->
-    <string name="shasta_title">Shasta 係數</string>
-    <string name="shasta_summary">包圍曝光 = %s</string>
-    <string name="shasta_def">預設</string>
-    <string name="shasta_off">關閉</string>
-    <string name="shasta_1">抑制綠色噪點 x1</string>
-    <string name="shasta_5">抑制綠色噪點 x5</string>
-    <string name="shasta_10">抑制綠色噪點 x10</string>
-    <string name="shasta_25">抑制綠色噪點 x25</string>
-    <string name="shasta_100">抑制綠色噪點 x100</string>
-    <string name="shasta_500">抑制綠色噪點 x500</string>
-    <string name="shasta_1000">抑制綠色噪點 x1000</string>
-
-    <!-- AGC HDR+ 的 RAW 格式 -->
-    <string name="raw_title">HDR+ 的 RAW 格式</string>
-    <string name="preview_raw">RAW10</string>
-    <string name="preview_raw_sensor">RAW16</string>
-
-    <!-- AGC Google 感測器邏輯 -->
-    <string name="gcam_lens_logic_title">Google 感測器邏輯</string>
-    <string name="gcam_lens_logic_0">後鏡頭（常規）</string>
-    <string name="gcam_lens_logic_1">前鏡頭（常規）</string>
-    <string name="gcam_lens_logic_2">前鏡頭（超廣角）</string>
-    <string name="gcam_lens_logic_3">前鏡頭（邏輯）</string>
-    <string name="gcam_lens_logic_4">後鏡頭（長焦）</string>
-    <string name="gcam_lens_logic_5">後鏡頭（邏輯）</string>
-    <string name="gcam_lens_logic_6">前鏡頭（紅外線）</string>
-    <string name="gcam_lens_logic_7">後鏡頭（長焦合併）</string>
-    <string name="gcam_lens_logic_8">後鏡頭（超廣角）</string>
-    <string name="gcam_lens_logic_9">後鏡頭（超廣角合併）</string>
-    <string name="gcam_lens_logic_10">後鏡頭（常規合併）</string>
-    <string name="gcam_lens_logic_11">後鏡頭（常規 Remozaiked）</string>
-    <string name="gcam_lens_logic_12">後鏡頭（長焦 Remosaicked）</string>
-    <string name="gcam_lens_logic_13">前鏡頭（次要）</string>
-    <string name="gcam_lens_logic_14">後鏡頭（常規最大解析度）</string>
-    <string name="gcam_lens_logic_15">後鏡頭（長焦最大解析度）</string>
-    <string name="gcam_lens_logic_16">後鏡頭（超廣角最大解析度）</string>
-    <string name="gcam_lens_logic_17">後鏡頭（常規 Roshi）</string>
-
-    <!-- AGC 鏡頭名稱 -->
-    <string name="lens_title">鏡頭名稱</string>
-
-    <!-- AGC 自訂名稱 -->
-    <string name="lens_custom_name">自訂名稱</string>
-
-    <!-- AGC 全部鏡頭 -->
-    <string name="lens_list_category_title">全部鏡頭</string>
-
-    <!-- AGC 選擇鏡頭 -->
-    <string name="lens_list_title">選擇鏡頭</string>
-    <string name="lens_list_summary">選擇要設定的鏡頭</string>
-
-    <!-- AGC 切換按鈕位置 -->
-    <string name="camera_switch_title">切換按鈕位置</string>
-    <string name="camera_switch_right">右側</string>
-    <string name="camera_switch_embed">嵌入到前鏡頭切換</string>
-
-    <!-- AGC 切換前鏡頭後重新啟動 -->
-    <string name="lens_switch_front_restart_title">切換前鏡頭後重新啟動</string>
-    <string name="lens_switch_front_restart_summary">切換後會重新載入設定檔</string>
-
-    <!-- AGC 設定檔數量 -->
-    <string name="patch_profile_count">設定檔數量</string>
-
-    <!-- AGC 鏡頭設定(未知) -->
-    <string name="lens_title_main">主鏡頭</string>
-    <string name="lens_title_wide">廣角鏡</string>
-    <string name="lens_title_front">前鏡頭</string>
-    <string name="lens_title_micro">微距鏡</string>
-    <string name="lens_title_tele">長焦鏡</string>
-
-    <!-- AGC 浮水印設定 -->
-    <string name="pref_watermark_title">浮水印設定</string>
-    <string name="pref_watermark_summary">自訂浮水印</string>
-
-    <!-- AGC 浮水印類型 -->
-    <string name="pref_watermark_type_setting">浮水印類型</string>
-    <string name="pref_watermark_type_0">Leica</string>
-    <string name="pref_watermark_type_1">Hasselblad</string>
-    <string name="pref_watermark_type_2">Arts Frame</string>
-    <string name="pref_watermark_type_3">Film time</string>
-    <string name="pref_watermark_type_4">Normal</string>
-
-    <!-- AGC 浮水印 Logo -->
-    <string name="pref_watermark_logo_setting">浮水印 Logo</string>
-    <string name="pref_watermark_logo_agc_8.8">AGC 8.8</string>
-    <string name="pref_watermark_logo_agc_8.7">AGC 8.7</string>
-    <string name="pref_watermark_logo_agc_8.6">AGC 8.6</string>
-    <string name="pref_watermark_logo_agc">AGC 8.4</string>
-    <string name="pref_watermark_logo_leica">Leica（萊卡）</string>
-    <string name="pref_watermark_logo_mi">Mi</string>
-    <string name="pref_watermark_logo_huawei">Huawei（華為）</string>
-    <string name="pref_watermark_logo_oneplus">Oneplus（一加）</string>
-    <string name="pref_watermark_logo_oppo">Oppo</string>
-    <string name="pref_watermark_logo_vivo">Vivo</string>
-    <string name="pref_watermark_logo_samsung">Samsung（三星）</string>
-    <string name="pref_watermark_logo_sony">Sony（索尼）</string>
-    <string name="pref_watermark_logo_google">Google</string>
-    <string name="pref_watermark_logo_lenovo">Lenovo（聯想）</string>
-    <string name="pref_watermark_logo_moto">Moto（摩托羅拉）</string>
-    <string name="pref_watermark_logo_realme">Realme（真我）</string>
-    <string name="pref_watermark_logo_iqoo">iQOO</string>
-    <string name="pref_watermark_logo_iqoo12">iQOO 12</string>
-    <string name="pref_watermark_logo_zeiss">ZEISS（蔡司）</string>
-    <string name="pref_watermark_logo_meizu">MEIZU（魅族）</string>
-    <string name="pref_watermark_logo_lg">LG</string>
-    <string name="pref_watermark_logo_zte">ZTE（中興）</string>
-    <string name="pref_watermark_logo_poco">POCO</string>
-    <string name="pref_watermark_logo_nuoio">Nubia（努比亞）</string>
-    <string name="pref_watermark_logo_nothing">Nothing</string>
-
-    <!-- AGC 自訂文件 -->
-    <string name="custom_file_setting_title">自訂文件</string>
-    <string name="custom_file_setting_summary">設定、LUT、自訂庫、白平衡、降噪模型</string>
-    <string name="custom_file_setting84_summary">設定、自訂庫、白平衡、降噪模型</string>
-
-    <!-- AGC 設定檔 -->
-    <string name="agc_config_title">設定檔</string>
-
-    <!-- AGC 暱稱 -->
-    <string name="agc_nickname_title">暱稱</string>
-    <string name="agc_nickname_summary">新增你的暱稱</string>
-
-    <!-- AGC 更新日誌 -->
-    <string name="agc_changelog_title">更新日誌</string>
-    <string name="agc_changelog_summary">新增你的 XML 更新日誌</string>
-
-    <!-- AGC 保存設定檔 -->
-    <string name="agc_config_save_title">保存</string>
-    <string name="agc_config_save_summary">設定檔會保存在 /Download/AGC.%1$s/configs/ 資料夾中</string>
-
-    <!-- AGC 匯入設定檔 -->
-    <string name="agc_config_load_title">匯入</string>
-    <string name="agc_config_load_summary">可以在主介面上的選項窗口中選擇 “加載設定” 按鈕以加載設定（格式為 .xml 或 .agc）</string>
-
-    <!-- AGC 加載自訂庫 -->
-    <string name="load_libs_title">加載自訂庫</string>
-    <string name="load_libs_summary">格式為 .so</string>
-
-    <!-- AGC 匯入自訂庫 -->
-    <string name="import_libs_title">匯入自訂庫</string>
-    <string name="import_libs_summary">成功匯入之後到 "加載自訂庫" 選擇匯入的庫</string>
-
-    <!-- AGC 刪除自訂庫 -->
-    <string name="delete_libs_title">刪除自訂庫</string>
-
-    <!-- AGC 擴展設定 -->
-    <string name="advanced_settings_extends_title">擴展設定</string>
-
-    <!-- AGC 焦點追蹤-->
-    <string name="track_focus_title">焦點追蹤</string>
-    <string name="track_focus_summary">用於拍攝移動的對象</string>
-
-    <!-- AGC 焦點鎖定時長 -->
-    <string name="focus_lock_time_title">焦點鎖定時長</string>
-    <string name="focus_lock_time_summary">對焦後鎖定的持續時間</string>
-    <string name="focus_lock_time_default">預設</string>
-    <string name="focus_lock_time_4">4 秒</string>
-    <string name="focus_lock_time_6">6 秒</string>
-    <string name="focus_lock_time_8">8 秒</string>
-    <string name="focus_lock_time_12">12 秒</string>
-    <string name="focus_lock_time_16">16 秒</string>
-
-    <!-- AGC 覆蓋最大變焦 -->
-    <string name="max_zoom_title">覆蓋最大變焦（0 代表：不覆蓋）</string>
-    <string name="max_zoom_dialog_title">變焦值</string>
-
-    <!-- AGC 絕佳鏡頭與微影片 -->
-    <string name="enabled_motion_title">絕佳鏡頭與微影片</string>
-    <string name="enabled_motion_summary">在選項卡中新增絕佳鏡頭選項，長按快門鍵可以錄製微影片並且同時顯示水平儀</string>
-
-    <!-- AGC 實驗性設定 -->
-    <string name="screen_experimental_title">實驗性設定</string>
-    <string name="disabled_discard_frames_title">停用丟棄幀</string>
-    <string name="disabled_discard_frames_summary">提高照片的清晰度，但由於無法修復移動的主體，所以可能會導致殘影</string>
-
-    <!-- AGC 曲線按鈕 -->
-    <string name="curve_button">曲線按鈕</string>
-    <string name="curve_button_summary">在取景器中調整曲線（長按進行調整）</string>
-    <string name="tone_curve">色調</string>
-    <string name="gamma_curve">伽瑪</string>
-
-    <!-- AGC 混色器 -->
-    <string name="cct_colormix_button">混色器</string>
-    <string name="cct_colormix_button_summary">在取景器中調整顏色</string>
-    <string name="color_mix">混色器</string>
-    <string name="color_mix_done">完成</string>
-    <string name="color_mix_hue">色相</string>
-    <string name="color_mix_luminance">亮度</string>
-    <string name="color_mix_saturation">飽和度</string>
-
-    <!-- AGC 顯示偵錯數據 -->
-    <string name="show_debug_data_title">顯示偵錯數據</string>
-
-    <!-- AGC 顯示對焦數據 -->
-    <string name="show_focus_data_title">顯示對焦數據</string>
-    <string name="show_focus_data_summary">焦點控制不準確時可以在此處修正數據</string>
-
-    <!-- AGC 開發者設定 -->
-    <string name="pref_developer_settings">開發者設定</string>
-
-    <!-- AGC 關於我們 -->
-    <string name="pref_gcamtools_title">點擊下載 AGC 工具包</string>
-    <string name="pref_gcamtools_summary">AGC 工具包支持使用 LUT 處理照片、添加水印、調整配置、查看 libpatch 書籤</string>
-    <string name="pref_about_us_title">關於我們</string>
-    <string name="pref_about_us_summary">AGC 工具包的連結、最新動態</string>
-    <string name="pref_lead_developer_title">開發者</string>
-    <string name="pref_news_title">最新動態</string>
-    <string name="pref_news_summary">隨時了解更新和其他新聞</string>
-    <string name="pref_thanks_for_title">感謝幫忙</string>
-    <string name="pref_thanks_for_summary">感謝那些幫助我製作這個模組的開發者</string>
-    <string name="buy_me_a_coffee">請我喝杯咖啡</string>
-
-    <!-- AGC 裝置資訊 -->
-    <string name="device_info">裝置資訊</string>
-    <string name="device_info_summary">查看你的裝置資訊</string>
-    <string name="version">版本</string>
-    <string name="manufacturer">製造商</string>
-    <string name="device">裝置</string>
-    <string name="model">型號</string>
-    <string name="brand">品牌</string>
-    <string name="hardware">硬體</string>
-    <string name="board">CPU</string>
-    <string name="android_os">Android 版本</string>
-    <string name="sdk">SDK 版本</string>
-    <string name="fingerprint">裝置指紋（辨識碼）</string>
-
     <!-- 原 GCAM 的字串-->
     <string name="abc_action_bar_up_description">向上瀏覽</string>
     <string name="abc_action_mode_done">完成</string>
@@ -414,6 +53,7 @@
     <string name="accessibility_processing_the_photo">正在處理相片</string>
     <string name="accessibility_shutter_button">快門</string>
     <string name="accessibility_speech_enhance_indicator">語音強化已開啟</string>
+    <string name="accessibility_take_astro_button">拍攝天文攝影相片</string>
     <string name="accessibility_take_catshark_portrait_button">在肖像模式下使用夜視功能拍照</string>
     <string name="accessibility_take_lasagna_button">拍攝動態肖像模式相片</string>
     <string name="accessibility_take_nightsight_button">拍攝夜視相片</string>
@@ -475,12 +115,16 @@
     <string name="autotimer_tutorial_title">笑一個即可拍照</string>
     <string name="beta_label_text">Beta</string>
     <string name="blur_entrypoint_desc">模糊 {%d}</string>
+    <string name="boba_pearl_drag_edu_text_str">拖曳黃色方塊即可為拍攝目標構圖</string>
+    <string name="boba_tap_on_pip_chip">輕觸縮圖即可決定裁剪大小</string>
     <string name="bottom_center">正下方</string>
     <string name="bottom_left">左下角</string>
     <string name="bottom_right">右下角</string>
     <string name="bottom_sheet_close_button">關閉</string>
+    <string name="bottom_sheet_turn_off_battery_saver_button">關閉省電模式</string>
     <string name="bottomsheet_action_expand_halfway">展開一半</string>
     <string name="bottomsheet_drag_handle_content_description">拖曳控點</string>
+    <string name="bottomsheet_try_button_desc">試試看雙螢幕功能</string>
     <string name="brightness_disable_string">如要調整亮度，請重設快門速度和 ISO</string>
     <string name="brightness_ev_announcement">目前的亮度值為 %1$s</string>
     <string name="brightness_knob_accessibility_description">亮度調整鈕</string>
@@ -515,8 +159,9 @@
     <string name="cancel_photo_sphere">捨棄 360 度全景相片</string>
     <string name="cant_save_photo_dialog_message">相機權限不足，無法儲存這個位置。</string>
     <string name="cant_save_photo_dialog_title">無法儲存相片</string>
-    <string name="catcher_bottomsheet_text">只要對著鏡頭張開手掌，即可從遠處啟動 3 或 10 秒計時器</string>
-    <string name="catcher_bottomsheet_title">使用張手自拍計時器</string>
+    <string name="catcher_bottomsheet_text">想要從遠處自拍時，只要對著鏡頭張開手掌，即可啟動自拍計時器。請注意，「手掌倒數計時」在低光源環境下可能無法運作。</string>
+    <string name="catcher_bottomsheet_title">使用手掌倒數計時</string>
+    <string name="catcher_edu_to_settings_button">前往設定開啟</string>
     <string name="catshark_agency_button">夜視模式曝光滑桿</string>
     <string name="catshark_on_chip">夜視</string>
     <string name="catshark_timer_disabled_chip">計時器已開啟，夜視功能已關閉。</string>
@@ -527,6 +172,7 @@
     <string name="catshark_toggle_on_desc">關閉夜視功能</string>
     <string name="center">中央</string>
     <string name="cheetah_description">錄下長時間活動 (例如日落)，再以較短的時間播放</string>
+    <string name="cinematic_blur_help_button_accessibility">進一步瞭解電影動態模糊模式</string>
     <string name="cinematic_bottom_sheet_description">將拍攝主體的背景模糊處理，並以每秒 24 個影格的速率拍攝，營造電影動態效果</string>
     <string name="cinematic_bottom_sheet_title">電影動態模糊</string>
     <string name="cinematic_edu_cinematic_caption">電影動態模糊</string>
@@ -602,8 +248,10 @@
     <string name="double_tap_switch_camera">切換相機</string>
     <string name="double_tap_zoom">縮放</string>
     <string name="downloading_updates">正在下載更新 (%d%%)</string>
+    <string name="dual_screen_on_button_accessibility_description">雙螢幕功能已開啟</string>
     <string name="education_swipe_toast_message">滑動即可查看選項</string>
     <string name="enable_stabilization_tooltip">前往設定開啟影片防震功能</string>
+    <string name="entry_button_accessibility_description">封面螢幕適用的功能</string>
     <string name="error_a11y_label">Error: invalid</string>
     <string name="error_app_not_found">在裝置上找不到這個應用程式。</string>
     <string name="error_permissions_keyguard_updated">如要使用相機，請將裝置解鎖並開啟相機、麥克風和儲存空間的權限。</string>
@@ -612,8 +260,11 @@
     <string name="ev_announcement">目前的曝光值：%1$s</string>
     <string name="ev_reset_button_accessibility_description">重設曝光按鈕</string>
     <string name="expand_button_title">進階</string>
+    <string name="exposure_disable_string">如要調整曝光，請重設快門速度和 ISO</string>
     <string name="exposure_knob_description">曝光調整鈕</string>
     <string name="exposure_slider_desc">曝光：%d%%</string>
+    <string name="exposure_toast_reset">重設</string>
+    <string name="exposure_toast_reset_desc">將快門速度和 ISO 重設為「自動」</string>
     <string name="external_bluetooth_mic_connected">已連線到藍牙麥克風，輕觸箭頭即可變更。</string>
     <string name="external_bluetooth_mic_disconnected">藍牙連線中斷。系統將改用手機的麥克風。</string>
     <string name="external_mic_connected">麥克風輸入裝置已更新，輕觸箭頭即可變更。</string>
@@ -774,7 +425,10 @@
     <string name="invalid_apk_version">偵測到無效的 Google 相機應用程式版本</string>
     <string name="iris_talkback_label_contact">將%s建立為聯絡人</string>
     <string name="iso">ISO</string>
+    <string name="iso_bottom_sheet_body">調低 ISO 可盡量減少雜訊，提高相片的銳利度。調高 ISO 則有助於拍出靜止畫面。</string>
+    <string name="iso_bottom_sheet_header">ISO</string>
     <string name="iso_disable_string">如要調整 ISO，請重設快門速度和亮度</string>
+    <string name="iso_help_context_desc">進一步瞭解 ISO。</string>
     <string name="iso_slider_desc">ISO：%d</string>
     <string name="iso_toast_reset">重設</string>
     <string name="iso_toast_reset_desc">將快門速度和亮度重設為「自動」</string>
@@ -795,6 +449,8 @@
     <string name="left">左側</string>
     <string name="lens_selection">鏡頭選取模式</string>
     <string name="lens_selection_auto">自動</string>
+    <string name="lens_selection_bottom_sheet_body">開啟「手動選取鏡頭」功能時，系統會將預設的縮放切換鈕替換成控制選項，供你用來挑選所需鏡頭。</string>
+    <string name="lens_selection_bottom_sheet_header">鏡頭選取模式</string>
     <string name="lens_selection_manual">手動</string>
     <string name="lobster_exposure_chip_text">拍攝 5,000 萬像素相片時無法調整曝光</string>
     <string name="lobster_option_desc">解析度選項</string>
@@ -822,13 +478,14 @@
     <string name="manual_brightness">亮度</string>
     <string name="manual_controls">手動控制項</string>
     <string name="manual_controls_entrypoint_desc">控制選項</string>
+    <string name="manual_controls_entrypoint_selected_desc">控制台已展開</string>
     <string name="manual_exposure">曝光</string>
     <string name="manual_focus">手動對焦</string>
     <string name="manual_focus_bottom_sheet_body">你可以手動調整焦距，決定對焦主體。將手指移開對焦控制選項後，系統就會鎖定焦距。</string>
     <string name="manual_focus_bottom_sheet_header">手動對焦</string>
     <string name="manual_focus_bottom_sheet_peaking_bullet">系統會以線條標出對焦主體，方便你在拍照前確認。</string>
     <string name="manual_focus_bottom_sheet_pip_bullet">你可以透過子母畫面仔細確認對焦主體。如果拍攝對象距離你很遠，這項功能就相當實用。</string>
-    <string name="manual_focus_help_context_desc" />
+    <string name="manual_focus_help_context_desc">進一步瞭解手動對焦。</string>
     <string name="manual_focus_peaking_active_chip">峰值對焦已啟用</string>
     <string name="manual_shadows">陰影</string>
     <string name="manual_video_speed">速度</string>
@@ -866,12 +523,10 @@
     <string name="micro_on_desc">開啟絕佳鏡頭</string>
     <string name="micro_option_desc">絕佳鏡頭</string>
     <string name="min_value_label">關閉</string>
-    <string name="moblur_action_acc_desc">動作搖攝</string>
     <string name="moblur_action_edu_animation_acc">動作搖攝效果的動畫</string>
     <string name="moblur_action_edu_desc">焦點會放在移動中的拍攝目標，並將背景加上創意模糊效果。請拿穩相機或跟著拍攝目標移動，以便拍出動態效果。</string>
     <string name="moblur_action_edu_photo_acc">動作搖攝效果的範例相片</string>
     <string name="moblur_action_title">動作搖攝</string>
-    <string name="moblur_landscape_acc_desc">長時間曝光</string>
     <string name="moblur_landscape_edu_animation_acc">長時間曝光效果的動畫</string>
     <string name="moblur_landscape_edu_desc">為畫面中正在移動的拍攝目標加上創意模糊效果。即使沒有三腳架，只要拿穩相機，也能拍出專業感十足的相片。</string>
     <string name="moblur_landscape_edu_photo_acc">長時間曝光效果的範例相片</string>
@@ -889,18 +544,10 @@
     <string name="mode_cuttlefish_desc">切換至夜視</string>
     <string name="mode_lens">智慧鏡頭</string>
     <string name="mode_lens_desc">切換到智慧鏡頭模式</string>
-    <string name="mode_measure">測量</string>
-    <string name="mode_measure_desc">切換至測量模式</string>
-    <string name="mode_motion_blur">動態</string>
     <string name="mode_motion_blur_action_pan_desc">切換成動作搖攝模式</string>
-    <string name="mode_motion_blur_desc">切換到動態肖像模式</string>
     <string name="mode_motion_blur_landscape_desc">切換至「長時間曝光」模式</string>
-    <string name="mode_ornament">遊樂場</string>
-    <string name="mode_ornament_desc">切換到「遊樂場」模式</string>
     <string name="mode_panorama">全景</string>
     <string name="mode_panorama_desc">切換至全景模式</string>
-    <string name="mode_photobooth">自動攝影</string>
-    <string name="mode_photobooth_desc">切換至自動攝影模式</string>
     <string name="mode_photosphere">360 度全景相片</string>
     <string name="mode_photosphere_desc">切換至 360 度全景相片拍攝模式</string>
     <string name="mode_portrait">肖像</string>
@@ -948,6 +595,14 @@
     <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
     <string name="new_version_available">相機應用程式有可用的更新</string>
     <string name="night_sight_entrypoint_desc">夜視：%1$s {%2$d 秒}</string>
+    <string name="night_sight_entrypoint_no_agency_desc">夜視模式：%1$s</string>
+    <string name="nightlapse_edu_description">即使拍攝環境昏暗，也能拍出鮮明細緻的縮時影片。這項功能僅支援「自動」速度選項。</string>
+    <string name="nightlapse_edu_nightlapse_video">夜視</string>
+    <string name="nightlapse_edu_original_video">原始</string>
+    <string name="nightlapse_edu_status_info">拍攝環境的光線不足時，快門按鈕會顯示月亮圖示，輕觸即可開始錄影</string>
+    <string name="nightlapse_edu_steady_info">將手機放在穩固的表面上，例如三腳架或石塊</string>
+    <string name="nightlapse_edu_title">在縮時錄影模式下使用夜視</string>
+    <string name="nightlapse_edu_video_length">1080p：錄製 %1$d 分鐘可拍出 %2$d 秒影片；4K：錄製 %3$d 分鐘可拍出 %4$d 秒影片。</string>
     <string name="no_objects_in_frame">未偵測到任何物體。</string>
     <string name="not_enough_motion_chip">拍攝目標的動作不足</string>
     <string name="not_selected">未選取</string>
@@ -970,14 +625,12 @@
     <string name="options_bottom_tab_first">一般</string>
     <string name="options_bottom_tab_second">專業</string>
     <string name="options_bottom_title">%s設定</string>
-    <string name="options_chip_swipe_suggestion">向上滑動即可存取「設定」</string>
     <string name="options_menu_button_desc">開啟選項選單</string>
-    <string name="options_menu_close_desc">關閉選項選單</string>
     <string name="options_menu_disabled">無法使用</string>
     <string name="options_menu_disabled_desc">無法使用這個選項</string>
     <string name="options_menu_gear_desc">相機設定</string>
     <string name="options_menu_title">選項</string>
-    <string name="p11_photos_backup_desc">如要強化現有影片，請將影片備份到 Google 相簿。<a href="https://support.google.com/googlecamera?p=video_boost">瞭解詳情</a></string>
+    <string name="p11_photos_backup_desc">只有長度不超過上限且已備份到 Google 相簿的影片，才適用於畫質提升功能。<a href="https://support.google.com/googlecamera?p=video_boost">瞭解詳情</a></string>
     <string name="panorama">360</string>
     <string name="panorama_date_content_description">%s 拍攝的全景</string>
     <string name="panorama_desc">360 度全景相片</string>
@@ -1030,7 +683,7 @@
     <string name="pref_audio_zoom_summary">針對主題拉近焦距可增強主題音量並降低背景噪音</string>
     <string name="pref_audio_zoom_title">音訊增強</string>
     <string name="pref_camera_catcher_summary">想要從遠處自拍時，只要對著鏡頭張開手掌，即可啟動自拍計時器。</string>
-    <string name="pref_camera_catcher_title">張手自拍計時器</string>
+    <string name="pref_camera_catcher_title">手掌倒數計時</string>
     <string name="pref_camera_coach_summary">在螢幕上顯示提示和工具，例如水平儀和對焦提示</string>
     <string name="pref_camera_coach_title">取景提示</string>
     <string name="pref_camera_dirty_lens_summary">因鏡頭髒汙而無法拍攝高畫質相片時顯示警示訊息。此時擦拭鏡頭可能會有所幫助。</string>
@@ -1038,8 +691,8 @@
     <string name="pref_camera_double_tap_action_title">輕觸兩下動作</string>
     <string name="pref_camera_frequent_faces_title">常拍臉孔</string>
     <string name="pref_camera_gestures_title">按鈕快速鍵</string>
-    <string name="pref_camera_lens_subtitle_legacy">將相機對準目標即可掃描 QR 圖碼、文件等等</string>
-    <string name="pref_camera_lens_title">Google 智慧鏡頭建議</string>
+    <string name="pref_camera_lens_subtitle_legacy">將相機鏡頭對準目標來掃描 QR code 和文件</string>
+    <string name="pref_camera_lens_title">相機掃描建議</string>
     <string name="pref_camera_mirror_image_title">依預覽顯示儲存自拍照</string>
     <string name="pref_camera_picturesize_default">完整解析度</string>
     <string name="pref_camera_picturesize_medium">"中等解析度
@@ -1051,10 +704,11 @@
     <string name="pref_camera_social_share_main_feature_switch">使用社群媒體分享功能</string>
     <string name="pref_camera_social_share_summary">在相機中將相片和影片快速分享到社群應用程式</string>
     <string name="pref_camera_social_share_title">社交分享</string>
+    <string name="pref_camera_sounds_disabled_summary">根據你使用的 SIM 卡或所在區域，這項設定無法關閉</string>
     <string name="pref_camera_sounds_title">相機音效</string>
     <string name="pref_camera_volume_key_action_title">音量鍵操作</string>
     <string name="pref_catcher_type_always_on">一律開啟</string>
-    <string name="pref_catcher_type_timer">只能使用 3 秒或 10 秒計時器</string>
+    <string name="pref_catcher_type_timer">只在啟動 3 或 10 秒計時器時才會開啟</string>
     <string name="pref_category_advanced">進階</string>
     <string name="pref_category_storage">裝置儲存空間</string>
     <string name="pref_countdown_indicator_summary">計時器倒數時，讓後置鏡頭閃光燈閃爍。</string>
@@ -1074,7 +728,9 @@
     <string name="pref_hotshot">引導入鏡</string>
     <string name="pref_hotshot_summary">讓系統透過語音和震動協助你自拍</string>
     <string name="pref_kepler_summary">將匯出相片和縮時錄影檔案，會使用較多儲存空間。</string>
-    <string name="pref_kepler_title">啟用天文攝影縮時錄影模式。</string>
+    <string name="pref_kepler_title">啟用天文攝影縮時錄影模式</string>
+    <string name="pref_kola_enabled_summary">相較於預設的 HDR+ 處理方式，Ultra HDR 會提高圖片中最亮部分的亮度，呈現更鮮豔的色彩。</string>
+    <string name="pref_kola_enabled_title">Ultra HDR</string>
     <string name="pref_low_storage_mode">壓縮畫質</string>
     <string name="pref_low_storage_mode_auto_disable">儲存空間足夠時關閉</string>
     <string name="pref_low_storage_mode_auto_disable_summary">如果裝置儲存空間還有至少 %d GB，「壓縮畫質」設定就會關閉。</string>
@@ -1115,6 +771,7 @@
     <string name="raw_output_off_desc">僅限 JPEG</string>
     <string name="raw_output_on_desc">RAW + JPEG</string>
     <string name="ready_for_selfie">準備要自拍了</string>
+    <string name="rear_camera_selfie_on_button_accessibility_description">後置鏡頭自拍功能已開啟</string>
     <string name="record_location_notification">儲存位置資訊</string>
     <string name="reduce_noise_when_talk_tooltip">這項功能有助降低說話時的惱人噪音</string>
     <string name="reset_all">全部重設</string>
@@ -1139,7 +796,6 @@
     <string name="sapphire_btm_sheet_title">影片強化器</string>
     <string name="sapphire_caption_four">取消模糊處理</string>
     <string name="sapphire_caption_one">HDR+</string>
-    <string name="sapphire_caption_three">畫面平穩效果</string>
     <string name="sapphire_caption_two">夜視模式</string>
     <string name="sapphire_content_desc">影片強化器選項</string>
     <string name="sapphire_edu_about_options_bar">關於</string>
@@ -1150,6 +806,15 @@
     <string name="sapphire_off_desc">影片強化器已關閉</string>
     <string name="sapphire_on">已開啟</string>
     <string name="sapphire_on_desc">影片強化器已開啟</string>
+    <string name="sapphire_turn_off_locked_folder_dialog_body">如要提升影片畫質，請關閉「已上鎖的資料夾」功能。</string>
+    <string name="sapphire_turn_off_locked_folder_dialog_title">要關閉「已上鎖的資料夾」功能嗎？</string>
+    <string name="saturn_available_desc">在封面螢幕上顯示圖片預覽畫面，供其他人查看。</string>
+    <string name="saturn_title">雙螢幕</string>
+    <string name="saturn_unavailable_desc">如要使用雙螢幕功能，請切換至相片模式並展開裝置。</string>
+    <string name="saturn_unavailable_due_to_battery_saver_desc">如要使用雙螢幕預覽功能，請關閉省電模式</string>
+    <string name="saturn_unavailable_due_to_battery_saver_title">要關閉省電模式嗎？</string>
+    <string name="saturn_unavailable_due_to_thermal_throttling_desc">裝置過熱，無法使用雙螢幕功能</string>
+    <string name="saturn_unavailable_title">無法使用雙螢幕功能</string>
     <string name="scan_document">掃描文件</string>
     <string name="selected">已選取</string>
     <string name="selfie_angle_bottom_sheet_description">自拍時，請試著將相機拿到略高於眼睛的位置。</string>
@@ -1184,7 +849,10 @@
     <string name="shortcut_video_short_label">影片</string>
     <string name="shutter_slider_desc">快門速度：%s 秒</string>
     <string name="shutter_speed">快門速度</string>
+    <string name="shutter_speed_bottom_sheet_body">調高快門速度可將動作定格於一瞬間，調慢快門速度則可拍出動態模糊和光跡效果。</string>
+    <string name="shutter_speed_bottom_sheet_header">快門速度</string>
     <string name="shutter_speed_disable_string">如要調整快門速度，請重設 ISO 和亮度</string>
+    <string name="shutter_speed_help_context_desc">進一步瞭解快門速度。</string>
     <string name="shutter_speed_value">%1$s</string>
     <string name="shutter_toast_reset">重設</string>
     <string name="shutter_toast_reset_desc">將 ISO 和亮度重設為「自動」</string>
@@ -1271,7 +939,7 @@
     <string name="tab">Tab 鍵</string>
     <string name="tap_to_start">首先，請輕觸下方圖示</string>
     <string name="taxi_bottom_sheet_desc">拍攝細緻的特寫相片和影片。只要將手機靠近拍攝物體，系統就會自動對焦在細節上。</string>
-    <string name="taxi_bottom_sheet_focus_distance">只能對焦在距離裝置 %d 公分的物品。</string>
+    <string name="taxi_bottom_sheet_focus_distance">可對焦距離裝置近達 %d 公分的物品。</string>
     <string name="taxi_bottom_sheet_turn_on_off_desc">輕觸圖示即可開啟或關閉微距對焦功能。</string>
     <string name="taxi_feature_name">微距對焦</string>
     <string name="taxi_macro_entered_hint">微距對焦功能已開啟，輕觸即可瞭解詳情。</string>
@@ -1288,7 +956,7 @@
     <string name="taxi_toggle_on_desc">關閉微距對焦功能</string>
     <string name="taxi_turned_off">微距對焦功能已關閉</string>
     <string name="taxi_turned_on">微距對焦功能已鎖定</string>
-    <string name="tele_lens">望遠 %1$s</string>
+    <string name="tele_lens">望遠 f/⁠%1$s</string>
     <string name="template_percent">百分之 %1$d。</string>
     <string name="terms_of_service">服務條款</string>
     <string name="text_copied_to_clipboard">已將文字複製到剪貼簿</string>
@@ -1342,10 +1010,11 @@
     <string name="try_speech_enhancement_tooltip">試試看語音強化功能</string>
     <string name="try_stabilization_tooltip">試用影片防震功能</string>
     <string name="try_video_boost_smarts">試用夜視模式的影片強化器</string>
+    <string name="turn_off_button_accessibility_description">輕觸兩下即可關閉</string>
     <string name="turn_off_lsm_dialog_message">如要變更這項設定，請前往「設定」關閉「壓縮畫質」。</string>
     <string name="turn_off_lsm_dialog_title">要關閉「壓縮畫質」嗎？</string>
     <string name="turn_on_sapphire_btm_sheet">開啟影片強化器</string>
-    <string name="ultrawide_lens">超廣角 %1$s</string>
+    <string name="ultrawide_lens">超廣角 f/⁠%1$s</string>
     <string name="unfold_message">展開裝置</string>
     <string name="update_camera_to_use_lens">檢查更新</string>
     <string name="update_failed_notification_text">無法更新相機，請回報錯誤。</string>
@@ -1410,7 +1079,7 @@
     <string name="whitebalance_label_announcement">%dK</string>
     <string name="whitebalance_slider_desc">白平衡：%dK</string>
     <string name="wide_angle_accessibility_peek">已拍攝廣角相片</string>
-    <string name="wide_lens">廣角 %1$s</string>
+    <string name="wide_lens">廣角 f/⁠%1$s</string>
     <string name="zoom_collapsed_button_description">變焦滑桿</string>
     <string name="zoom_ffc_wide_tooltip">縮小畫面可拍出視野更寬廣的自拍照</string>
     <string name="zoom_minus_desc">縮小</string>
