@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- AGC 裝置資訊 -->
+    <string name="device_info">裝置資訊</string>
+    <string name="device_info_summary">查看你的裝置資訊</string>
+    <string name="version">版本</string>
+    <string name="manufacturer">製造商</string>
+    <string name="device">裝置</string>
+    <string name="model">型號</string>
+    <string name="brand">品牌</string>
+    <string name="board">CPU</string>
+    <string name="hardware">硬體</string>
+    <string name="android_os">Android 版本</string>
+    <string name="sdk">SDK 版本</string>
+    <string name="fingerprint">裝置指紋（辨識碼）</string>
+
     <!-- 原 GCAM 的字串-->
     <string name="abc_action_bar_up_description">向上瀏覽</string>
     <string name="abc_action_mode_done">完成</string>
