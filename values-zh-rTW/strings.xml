@@ -39,7 +39,7 @@
 
     <!-- AGC 關於我們：點擊下載 AGC Toolkit -->
     <string name="pref_gcamtools_title">點擊下載 AGC Toolkit</string>
-    <string name="pref_gcamtools_summary">AGC Toolkit 支持使用 LUT 處理你的照片、添加浮水印、調整設定檔、查看 libpatch 書籤</string>
+    <string name="pref_gcamtools_summary">AGC Toolkit 支持使用 LUT 處理你的照片、新增浮水印、調整設定檔、查看 libpatch 書籤</string>
 
     <!-- AGC 關於我們：首席開發者 -->
     <string name="pref_lead_developer_title">首席開發者</string>
