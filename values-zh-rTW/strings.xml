@@ -6,7 +6,7 @@
 
     <!-- AGC 關於我們 -->
     <string name="pref_about_us_title">關於我們</string>
-    <string name="pref_about_us_summary">AGC Toolkit 連結、News</string>
+    <string name="pref_about_us_summary">AGC Toolkit 連結、新聞</string>
 
     <!-- AGC 關於我們：點擊下載 AGC Toolkit -->
     <string name="pref_gcamtools_title">點擊下載 AGC Toolkit</string>
