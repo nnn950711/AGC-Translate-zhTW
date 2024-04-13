@@ -17,6 +17,10 @@
     <string name="focus_lock_time_12">12 秒</string>
     <string name="focus_lock_time_16">16 秒</string>
 
+    <!-- AGC 擴展設定：覆蓋最大變焦 -->
+    <string name="max_zoom_title">覆蓋最大變焦（0 代表不覆蓋）</string>
+    <string name="max_zoom_dialog_title">變焦值</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
