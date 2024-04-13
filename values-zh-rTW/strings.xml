@@ -12,6 +12,10 @@
     <string name="show_focus_data_title">顯示對焦數據</string>
     <string name="show_focus_data_summary">焦點控制不準確時可以在此處修正數據</string>
 
+    <!-- AGC 混色器 -->
+    <string name="cct_colormix_button">混色器</string>
+    <string name="cct_colormix_button_summary">在取景器中調整顏色</string>
+
     <!-- AGC 開發人員設定 -->
     <string name="pref_developer_settings">開發人員設定</string>
 
