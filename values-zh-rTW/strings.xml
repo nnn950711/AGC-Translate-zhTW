@@ -29,6 +29,10 @@
     <string name="qjpg_title">JPEG 最終質量</string>
     <string name="qjpg_97">97%（預設）</string>
 
+    <!-- AGC 擴展設定：停用 DNG 壓縮 -->
+    <string name="disabled_compress_merged_dng_title">停用 DNG 壓縮</string>
+    <string name="disabled_compress_merged_dng_summary">停用用於 HDR+ 的 RAW(DNG) 壓縮</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
