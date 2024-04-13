@@ -4,6 +4,10 @@
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
+    <!-- AGC 實驗性設定：停用丟棄幀 -->
+    <string name="disabled_discard_frames_title">停用丟棄幀</string>
+    <string name="disabled_discard_frames_summary">可提高照片的清晰度，但由於無法修復移動的主體，所以可能會導致殘影。</string>
+
     <!-- AGC 曲線按鈕 -->
     <string name="curve_button">曲線按鈕</string>
     <string name="curve_button_summary">在取景器中調整色調和伽瑪的曲線（點擊 開啟/關閉、長按進行調整）</string>
