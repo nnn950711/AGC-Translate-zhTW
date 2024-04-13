@@ -2,7 +2,7 @@
 <resources>
 
     <!-- AGC 擴展設定 -->
-    <string name="lib_extended_settings_title">擴展設定</string>
+    <string name="advanced_settings_extends_title">擴展設定</string>
 
     <!-- AGC 擴展設定：焦點追蹤 -->
     <string name="track_focus_title">焦點追蹤</string>
