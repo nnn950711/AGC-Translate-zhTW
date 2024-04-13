@@ -4,6 +4,13 @@
     <!-- AGC 開發人員設定 -->
     <string name="pref_developer_settings">開發人員設定</string>
 
+    <!-- AGC 開發人員設定：過濾選項 -->
+    <string name="pref_dev_filter">過濾選項</string>
+    <string name="pref_dev_filter_all">顯示全部</string>
+    <string name="pref_dev_filter_enabled">僅顯示已啟用的選項</string>
+    <string name="pref_dev_filter_disabled">僅顯示已停用的選項</string>
+    <string name="pref_dev_filter_modified">僅顯示已修改的選項</string>
+
     <!-- AGC 關於我們 -->
     <string name="pref_about_us_title">關於我們</string>
     <string name="pref_about_us_summary">AGC Toolkit 連結、新聞</string>
