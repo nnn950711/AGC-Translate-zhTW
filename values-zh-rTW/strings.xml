@@ -16,6 +16,10 @@
     <string name="pref_lead_developer_title">首席開發者</string>
     <string name="pref_lead_developer_summary">Bigkaka</string>
 
+    <!-- AGC 關於我們：新聞 -->
+    <string name="pref_news_title">新聞</string>
+    <string name="pref_news_summary">隨時了解更新和其他新聞</string>
+
     <!-- AGC 裝置資訊 -->
     <string name="device_info">裝置資訊</string>
     <string name="device_info_summary">查看你的裝置資訊</string>
