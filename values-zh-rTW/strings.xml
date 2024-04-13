@@ -5,6 +5,9 @@
     <string name="curve_button">曲線按鈕</string>
     <string name="curve_button_summary">在取景器中調整色調和伽瑪的曲線（點擊 開啟/關閉、長按進行調整）</string>
 
+    <!-- AGC 顯示偵錯數據 -->
+    <string name="show_debug_data_title">顯示偵錯數據</string>
+
     <!-- AGC 開發人員設定 -->
     <string name="pref_developer_settings">開發人員設定</string>
 
