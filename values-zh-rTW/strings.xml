@@ -53,6 +53,10 @@
     <!-- AGC 擴展設定：更改標題上的 日期/時間 格式 -->
     <string name="data_time_title">更改標題上的 日期/時間 格式</string>
 
+    <!-- AGC 擴展設定：使用 Google 相簿 -->
+    <string name="gallery_title">使用 Google 相簿</string>
+    <string name="gallery_summary">預設圖片庫是第三方圖片庫</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
