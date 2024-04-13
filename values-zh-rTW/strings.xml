@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- AGC 擴展設定 -->
+    <string name="lib_extended_settings_title">擴展設定</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
