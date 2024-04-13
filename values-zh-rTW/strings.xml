@@ -35,7 +35,7 @@
 
     <!-- AGC 擴展設定：幾何校準 RAW 修復 -->
     <string name="geometric_calibration_raw_fix_title">幾何校準 RAW 修復</string>
-    <string name="geometric_calibration_raw_fix_summary">允許 Oneplus 設備拍攝出的 RAW 文件匯入 Snapseed 和 Lightroom，但可能會增加照片的雜訊。</string>
+    <string name="geometric_calibration_raw_fix_summary">允許 OnePlus 裝置拍攝出的 RAW 文件匯入 Snapseed 和 Lightroom，但可能會增加照片的雜訊。</string>
 
     <!-- AGC 擴展設定：照片的前綴名稱 -->
     <string name="prefix_title">照片的前綴名稱</string>
