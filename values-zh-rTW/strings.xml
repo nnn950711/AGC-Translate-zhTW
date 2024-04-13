@@ -21,6 +21,10 @@
     <string name="max_zoom_title">覆蓋最大變焦（0 代表不覆蓋）</string>
     <string name="max_zoom_dialog_title">變焦值</string>
 
+    <!-- AGC 擴展設定：絕佳鏡頭和微影片 -->
+    <string name="enabled_motion_title">絕佳鏡頭和微影片</string>
+    <string name="enabled_motion_summary">長按快門鍵可以錄製微影片，並且同時會顯示水平儀。</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
