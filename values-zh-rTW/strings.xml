@@ -41,6 +41,10 @@
     <string name="prefix_title">照片的前綴名稱</string>
     <string name="prefix_title_add">新增照片的前綴名稱</string>
     
+    <!-- AGC 擴展設定：影片的前綴名稱 -->
+    <string name="vid_prefix_title">影片的前綴名稱</string>
+    <string name="vid_prefix_title_add">新增影片的前綴名稱</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
