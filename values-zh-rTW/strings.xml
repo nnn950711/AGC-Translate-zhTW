@@ -45,6 +45,11 @@
     <string name="vid_prefix_title">影片的前綴名稱</string>
     <string name="vid_prefix_title_add">新增影片的前綴名稱</string>
 
+    <!-- AGC 擴展設定：文件的後綴名稱 -->
+    <string name="suffix_title">文件的後綴名稱</string>
+    <string name="suffix_title_add">新增文件的後綴名稱</string>
+    <string name="suffix_summary">輸入用於拍攝出的 照片/影片 文件的後綴名</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
