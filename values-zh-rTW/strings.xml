@@ -33,6 +33,10 @@
     <string name="disabled_compress_merged_dng_title">停用 DNG 壓縮</string>
     <string name="disabled_compress_merged_dng_summary">停用用於 HDR+ 的 RAW(DNG) 壓縮</string>
 
+    <!-- AGC 擴展設定：幾何校準 RAW 修復 -->
+    <string name="geometric_calibration_raw_fix_title">幾何校準 RAW 修復</string>
+    <string name="geometric_calibration_raw_fix_summary">允許 Oneplus 設備拍攝出的 RAW 文件匯入 Snapseed 和 Lightroom，但可能會增加照片的雜訊。</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
