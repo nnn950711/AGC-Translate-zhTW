@@ -66,6 +66,10 @@
     <!-- AGC 擴展設定：修復錄影取景器的亮度 -->
     <string name="fix_video_brightness_title">修復錄影取景器的亮度</string>
 
+    <!-- AGC 擴展設定：線上更新顏色值 -->
+    <string name="update_color_online">線上更新顏色值</string>
+    <string name="update_color_online_summary">每天從線上更新一次顏色值（AWB、CCT、Noise）</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
