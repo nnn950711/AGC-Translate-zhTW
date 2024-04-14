@@ -81,6 +81,13 @@
     <string name="ois_data_title">統計 OIS 數據</string>
     <string name="ois_data_summary">將光學防震的數據輸出給應用程式</string>
 
+    <!-- AGC Camera2API：防閃爍模式 -->
+    <string name="antibanding_title">防閃爍模式</string>
+    <string name="antibanding_off">關閉</string>
+    <string name="antibanding_50">50 Hz</string>
+    <string name="antibanding_60">60 Hz</string>
+    <string name="antibanding_auto">自動</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
