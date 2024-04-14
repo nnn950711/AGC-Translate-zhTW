@@ -63,6 +63,9 @@
     <!-- AGC 擴展設定：在取景器時將手機亮度調為最大值 -->
     <string name="max_brigtness_title">在取景器時將手機亮度調為最大值</string>
 
+    <!-- AGC 擴展設定：修復錄影取景器的亮度 -->
+    <string name="fix_video_brightness_title">修復錄影取景器的亮度</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
