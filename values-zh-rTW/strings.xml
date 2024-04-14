@@ -48,7 +48,7 @@
     <!-- AGC 擴展設定：文件的後綴名稱 -->
     <string name="suffix_title">文件的後綴名稱</string>
     <string name="suffix_title_add">新增文件的後綴名稱</string>
-    <string name="suffix_summary">輸入用於拍攝出的 照片/影片 文件的後綴名</string>
+    <string name="suffix_summary">輸入用於拍攝出的照片或影片檔案的後綴名</string>
 
     <!-- AGC 擴展設定：更改標題上的 日期/時間 格式 -->
     <string name="data_time_title">更改標題上的 日期/時間 格式</string>
