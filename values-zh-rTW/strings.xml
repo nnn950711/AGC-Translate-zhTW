@@ -88,6 +88,12 @@
     <string name="antibanding_60">60 Hz</string>
     <string name="antibanding_auto">自動</string>
 
+    <!-- AGC Camera2API：熱噪點模式 -->
+    <string name="hot_pixel_title">熱噪點模式</string>
+    <string name="hot_pixel_off">關閉</string>
+    <string name="hot_pixel_1">快速</string>
+    <string name="hot_pixel_2">高質量</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
