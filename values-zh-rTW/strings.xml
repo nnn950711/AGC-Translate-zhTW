@@ -94,6 +94,10 @@
     <string name="hot_pixel_1">快速</string>
     <string name="hot_pixel_2">高質量</string>
 
+    <!-- AGC Camera2API：顯示光圈按鈕 -->
+    <string name="pref_sab_title">顯示光圈按鈕</string>
+    <string name="pref_sab_summary">僅適用於三星裝置，讓光圈可在 F1.5 和 F2.4 之間切換。</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
