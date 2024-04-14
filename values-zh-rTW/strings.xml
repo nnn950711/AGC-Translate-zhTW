@@ -98,6 +98,16 @@
     <string name="pref_sab_title">顯示光圈按鈕</string>
     <string name="pref_sab_summary">僅適用於三星裝置，讓光圈可在 F1.5 和 F2.4 之間切換。</string>
 
+    <!-- AGC Camera2API：三星測光模式 -->
+    <string name="samsung_mettering_mode_title">三星測光模式</string>
+    <string name="samsung_center_weighted_title">中心測光</string>
+    <string name="samsung_sport_title">Sport（定點測光）</string>
+    <string name="samsung_matrix_title">Matrix（矩陣測光）</string>
+    <string name="samsung_controlled_by_gcam_title">由 GCam 控制</string>
+    <string name="samsung_unknown_4_title">未知 4</string>
+    <string name="samsung_unknown_5_title">未知 5</string>
+    <string name="samsung_unknown_6_title">未知 6</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
