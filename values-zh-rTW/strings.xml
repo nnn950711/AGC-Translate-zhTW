@@ -70,6 +70,9 @@
     <string name="update_color_online">線上更新顏色值</string>
     <string name="update_color_online_summary">每天從線上更新一次顏色值（AWB、CCT、Noise）</string>
 
+    <!-- AGC 擴展設定：保存記錄檔 -->
+    <string name="save_logs_to_file">保存記錄檔</string>
+
     <!-- AGC 實驗性設定 -->
     <string name="screen_experimental_title">實驗性設定</string>
 
