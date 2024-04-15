@@ -87,6 +87,14 @@
     <string name="pref_watermark_title">浮水印</string>
     <string name="pref_watermark_summary">自訂浮水印</string>
 
+    <!-- AGC 浮水印：浮水印類型 -->
+    <string name="pref_watermark_type_setting">浮水印</string>
+    <string name="pref_watermark_type_0">Leica（徠卡）</string>
+    <string name="pref_watermark_type_1">Hasselblad（哈蘇）</string>
+    <string name="pref_watermark_type_2">藝術相框</string>
+    <string name="pref_watermark_type_3">膠捲時間</string>
+    <string name="pref_watermark_type_4">普通相框</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
