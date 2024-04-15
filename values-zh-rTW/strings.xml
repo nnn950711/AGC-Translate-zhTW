@@ -41,6 +41,9 @@
     <string name="c2a_level_plus">Level 3+</string>
     <string name="c2a_full">Full</string>
 
+    <!-- AGC 自訂 -->
+    <string name="all_agc_title">自訂</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
