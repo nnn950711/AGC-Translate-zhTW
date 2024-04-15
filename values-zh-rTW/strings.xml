@@ -34,6 +34,13 @@
     <string name="husky">Pixel 8 Pro（husky）</string>
     <string name="shiba">Pixel 8（shiba）</string>
     
+    <!-- AGC 全域：硬體等級 -->
+    <string name="c2a_title">硬體等級</string>
+    <string name="c_f_a_auto">自動</string>
+    <string name="c2a_level">Level 3</string>
+    <string name="c2a_level_plus">Level 3+</string>
+    <string name="c2a_full">Full</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
