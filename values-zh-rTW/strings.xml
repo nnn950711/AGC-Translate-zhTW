@@ -44,6 +44,11 @@
     <!-- AGC 自訂 -->
     <string name="all_agc_title">自訂</string>
 
+    <!-- AGC 鏡頭設定 -->
+    <string name="lens_setting_title">鏡頭設定</string>
+    <string name="lens_setting_summary">你可以從這裡單獨設定每顆鏡頭</string>
+    <string name="lens_summary">系統 ID = %1$s（%2$s）</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
