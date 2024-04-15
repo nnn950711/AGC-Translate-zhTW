@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <!-- AGC 預設 -->
     <string name="all_default_auto">自動</string>
 
