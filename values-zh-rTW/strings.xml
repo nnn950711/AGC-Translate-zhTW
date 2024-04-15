@@ -167,6 +167,9 @@
     <!-- AGC AWB（自動白平衡）：刪除 AWB 文件 -->
     <string name="delete_awb_title">刪除 AWB 文件</string>
 
+    <!-- AGC 降噪模型 -->
+    <string name="noise_model_title">降噪模型</string>
+    
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
 
