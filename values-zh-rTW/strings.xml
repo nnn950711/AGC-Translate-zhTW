@@ -37,7 +37,6 @@
     
     <!-- AGC 全域：硬體等級 -->
     <string name="c2a_title">硬體等級</string>
-    <string name="c_f_a_auto">自動</string>
     <string name="c2a_level">Level 3</string>
     <string name="c2a_level_plus">Level 3+</string>
     <string name="c2a_full">Full</string>
