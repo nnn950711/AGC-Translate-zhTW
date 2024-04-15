@@ -49,6 +49,16 @@
     <string name="lens_setting_summary">你可以從這裡單獨設定每顆鏡頭</string>
     <string name="lens_summary">系統 ID = %1$s（%2$s）</string>
 
+    <!-- AGC 鏡頭設定：鏡頭標題 -->
+    <string name="lens_title">鏡頭標題</string>
+    <string name="lens_title_main">主鏡頭</string>
+    <string name="lens_title_wide">廣角鏡</string>
+    <string name="lens_title_tele">長焦鏡</string>
+    <string name="lens_title_front">前鏡頭</string>
+    <string name="lens_title_micro">微距鏡</string>
+    <string name="lens_title_id4">相機 4</string>
+    <string name="lens_title_id5">相機 5</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
