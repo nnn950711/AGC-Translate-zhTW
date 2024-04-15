@@ -134,6 +134,10 @@
     <!-- AGC 浮水印：浮水印時間格式 -->
     <string name="pref_watermark_time_format">浮水印時間格式</string>
 
+    <!-- AGC 自訂文件 -->
+    <string name="custom_file_setting_title">自訂文件</string>
+    <string name="custom_file_setting_summary">設定檔、LUT、相機庫、AWB（自動白平衡）、降噪模型</string>
+
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
 
