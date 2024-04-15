@@ -74,6 +74,11 @@
     <string name="lens_list_title">選擇鏡頭</string>
     <string name="lens_list_summary">選擇你要設定的鏡頭</string>
 
+    <!-- AGC 鏡頭設定：「切換鏡頭」按鈕位置 -->
+    <string name="camera_switch_title">「切換鏡頭」按鈕位置</string>
+    <string name="camera_switch_right">右側</string>
+    <string name="camera_switch_embed">嵌入</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
