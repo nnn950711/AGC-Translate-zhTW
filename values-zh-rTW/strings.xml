@@ -79,6 +79,10 @@
     <string name="camera_switch_right">右側</string>
     <string name="camera_switch_embed">嵌入</string>
 
+    <!-- AGC 鏡頭設定：切換前鏡頭後重新啟動 -->
+    <string name="lens_switch_front_restart_title">切換前鏡頭後重新啟動</string>
+    <string name="lens_switch_front_restart_summary">切換鏡頭後會重新加載設定檔</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
