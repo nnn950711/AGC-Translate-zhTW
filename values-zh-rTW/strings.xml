@@ -130,6 +130,8 @@
     <!-- AGC 浮水印：浮水印文本 -->
     <string name="pref_watermark_title_setting">浮水印文本</string>
 
+    <!-- AGC 浮水印：浮水印時間格式 -->
+    <string name="pref_watermark_time_format">浮水印時間格式</string>
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
