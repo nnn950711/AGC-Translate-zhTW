@@ -141,6 +141,9 @@
     <!-- AGC 設定檔 -->
     <string name="agc_config_title">設定檔</string>
 
+    <!-- AGC 設定檔：暱稱 -->
+    <string name="agc_nickname_title">暱稱</string>
+    <string name="agc_nickname_summary">新增你的暱稱</string>
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
 
