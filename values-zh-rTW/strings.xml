@@ -150,7 +150,7 @@
 
     <!-- AGC 設定檔：變更日誌 -->
     <string name="agc_changelog_title">變更日誌</string>
-    <string name="agc_changelog_summary">新增你的 XML 更新日誌</string>
+    <string name="agc_changelog_summary">新增你的 XML 變更日誌</string>
 
     <!-- AGC 設定檔：保存 -->
     <string name="agc_config_save_title">保存</string>
