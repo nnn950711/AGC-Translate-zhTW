@@ -67,6 +67,9 @@
     <string name="lens_info_sensor_size">感光元件大小</string>
     <string name="lens_info_raw_size">RAW 大小</string>
 
+    <!-- AGC 鏡頭設定：全部鏡頭 -->
+    <string name="lens_list_category_title">全部鏡頭</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
