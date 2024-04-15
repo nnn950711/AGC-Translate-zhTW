@@ -149,6 +149,10 @@
     <string name="agc_changelog_title">變更日誌</string>
     <string name="agc_changelog_summary">新增你的 XML 更新日誌</string>
 
+    <!-- AGC 設定檔：保存 -->
+    <string name="agc_config_save_title">保存</string>
+    <string name="agc_config_save_summary">設定檔保存目錄為：/Download/AGC.%1$s/configs/</string>
+
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
 
