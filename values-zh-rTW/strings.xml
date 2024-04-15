@@ -59,6 +59,14 @@
     <string name="lens_title_id4">相機 4</string>
     <string name="lens_title_id5">相機 5</string>
 
+    <!-- AGC 鏡頭設定：鏡頭資訊 -->
+    <string name="lens_info_name">名稱</string>
+    <string name="lens_info_focal_length">焦距</string>
+    <string name="lens_info_aperture">光圈</string>
+    <string name="lens_info_angle">角度</string>
+    <string name="lens_info_sensor_size">感光元件大小</string>
+    <string name="lens_info_raw_size">RAW 大小</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
