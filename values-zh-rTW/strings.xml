@@ -9,31 +9,31 @@
 
     <!-- AGC 全域：裝置介面 -->
     <string name="device_title">裝置介面</string>
-    <string name="sailfish">Pixel（Sailfish）</string>
-    <string name="marlin">Pixel XL（Marlin）</string>
-    <string name="walleye">Pixel 2（Walleye）</string>
-    <string name="taimen">Pixel 2 XL（Taimen）</string>
-    <string name="blueline">Pixel 3（Blueline）</string>
-    <string name="crosshatch">Pixel 3 XL（Crosshatch）</string>
-    <string name="sargo">Pixel 3a（Sargo）</string>
-    <string name="bonito">Pixel 3a XL（Bonito）</string>
-    <string name="flame">Pixel 4（Flame）</string>
-    <string name="coral">Pixel 4 XL（Coral）</string>
-    <string name="sunfish">Pixel 4a（Sunfish）</string>
-    <string name="bramble">Pixel 4a 5G（Bramble）</string>
-    <string name="redfin">Pixel 5（Redfin）</string>
-    <string name="barbet">Pixel 5a 5G（Barbet）</string>
-    <string name="oriole">Pixel 6（Oriole）</string>
-    <string name="raven">Pixel 6 Pro（Raven）</string>
-    <string name="bluejay">Pixel 6a（Bluejay）</string>
-    <string name="panther">Pixel 7（Panther）</string>
-    <string name="cheetah">Pixel 7 Pro（Cheetah）</string>
-    <string name="lynx">Pixel 7a（lynx）</string>
-    <string name="felix">Pixel Fold（felix）</string>
-    <string name="pipit">Pixel Notepad（pipit）</string>
-    <string name="tangor">Pixel Tablet（tangor）</string>
-    <string name="husky">Pixel 8 Pro（husky）</string>
-    <string name="shiba">Pixel 8（shiba）</string>
+    <string name="sailfish">Pixel (Sailfish)</string>
+    <string name="marlin">Pixel XL (Marlin)</string>
+    <string name="walleye">Pixel 2 (Walleye)</string>
+    <string name="taimen">Pixel 2 XL (Taimen)</string>
+    <string name="blueline">Pixel 3 (Blueline)</string>
+    <string name="crosshatch">Pixel 3 XL (Crosshatch)</string>
+    <string name="sargo">Pixel 3a (Sargo)</string>
+    <string name="bonito">Pixel 3a XL (Bonito)</string>
+    <string name="flame">Pixel 4 (Flame)</string>
+    <string name="coral">Pixel 4 XL (Coral)</string>
+    <string name="sunfish">Pixel 4a (Sunfish)</string>
+    <string name="bramble">Pixel 4a 5G (Bramble)</string>
+    <string name="redfin">Pixel 5 (Redfin)</string>
+    <string name="barbet">Pixel 5a 5G (Barbet)</string>
+    <string name="oriole">Pixel 6 (Oriole)</string>
+    <string name="raven">Pixel 6 Pro (Raven)</string>
+    <string name="bluejay">Pixel 6a (Bluejay)</string>
+    <string name="panther">Pixel 7 (Panther)</string>
+    <string name="cheetah">Pixel 7 Pro (Cheetah)</string>
+    <string name="lynx">Pixel 7a (lynx)</string>
+    <string name="felix">Pixel Fold (felix)</string>
+    <string name="pipit">Pixel Notepad (pipit)</string>
+    <string name="tangor">Pixel Tablet (tangor)</string>
+    <string name="husky">Pixel 8 Pro (husky)</string>
+    <string name="shiba">Pixel 8 (shiba)</string>
     
     <!-- AGC 全域：硬體等級 -->
     <string name="c2a_title">硬體等級</string>
