@@ -110,6 +110,7 @@
     <string name="pref_watermark_logo_samsung">Samsung（三星）</string>
     <string name="pref_watermark_logo_sony">Sony（索尼）</string>
     <string name="pref_watermark_logo_google">Google</string>
+    <string name="pref_watermark_logo_lenovo">Lenovo（聯想）</string>
     <string name="pref_watermark_logo_moto">Moto（摩托羅拉）</string>
     <string name="pref_watermark_logo_realme">realme（真我）</string>
     <string name="pref_watermark_logo_iqoo">iQOO</string>
