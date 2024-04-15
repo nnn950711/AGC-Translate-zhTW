@@ -122,6 +122,11 @@
     <string name="pref_watermark_logo_nuoio">Nubia（努比亞）</string>
     <string name="pref_watermark_logo_nothing">Nothing</string>
 
+    <!-- AGC 浮水印：卡片背景 -->
+    <string name="pref_card_background">卡片背景</string>
+    <string name="pref_card_background_white">白色</string>
+    <string name="pref_card_background_black">黑色</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
