@@ -3,6 +3,9 @@
     <!-- AGC 預設 -->
     <string name="all_default_auto">自動</string>
 
+    <!-- AGC 全域 -->
+    <string name="global_agc_title">全域</string>
+
 
     <!-- AGC 擴展設定 -->
     <string name="advanced_settings_extends_title">擴展設定</string>
