@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- AGC 文本 -->
+    <string name="auto">自動</string>
+    <string name="delete">刪除</string>
 
     <!-- AGC 預設 -->
     <string name="all_default_auto">自動</string>
