@@ -196,6 +196,10 @@
     <string name="load_libs_title">加載自訂相機庫</string>
     <string name="load_libs_summary">格式應為 .so</string>
 
+    <!-- AGC 相機庫：匯入第三方庫到應用程式中 -->
+    <string name="import_libs_title">匯入第三方庫到應用程式中</string>
+    <string name="import_libs_summary">成功匯入相機庫後，只需返回並重新進入即可選擇匯入好的相機庫。</string>
+
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
