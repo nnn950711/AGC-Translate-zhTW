@@ -167,6 +167,9 @@
     <!-- AGC 設定檔：加載設定檔（取景器上的選項） -->
     <string name="agc_config_load_btn_title">加載設定檔</string>
 
+    <!-- AGC 設定檔：選擇設定檔（取景器上的選項） -->
+    <string name="select_config">選擇設定檔</string>
+    <string name="select_config_ignore_lens">相容鏡頭</string>
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
