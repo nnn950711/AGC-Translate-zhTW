@@ -178,6 +178,10 @@
     <string name="pref_get_agctoolkit_pro_title">AGC Toolkit Pro</string>
     <string name="pref_get_agctoolkit_pro_summary">點擊下載 AGC Toolkit Pro 即可獲取 LUT 文件</string>
 
+    <!-- AGC LUT（查找表）：AGC Toolkit -->
+    <string name="pref_get_agctoolkit_title">AGC Toolkit</string>
+    <string name="pref_get_agctoolkit_summary">點擊下載 AGC Toolkit 即可獲取 LUT 文件</string>
+
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
