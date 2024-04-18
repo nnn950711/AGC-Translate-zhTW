@@ -143,7 +143,7 @@
 
     <!-- AGC 自訂文件 -->
     <string name="custom_file_setting_title">自訂文件</string>
-    <string name="custom_file_setting_summary">設定檔、LUT、相機庫、AWB（自動白平衡）、降噪模型</string>
+    <string name="custom_file_setting_summary">設定檔、查找表、相機庫、自動白平衡、降噪模型</string>
 
     <!-- AGC 設定檔 -->
     <string name="agc_config_title">設定檔</string>
