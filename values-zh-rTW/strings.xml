@@ -164,6 +164,9 @@
     <string name="agc_config_load_title">匯入</string>
     <string name="agc_config_load_summary">可以在取景器上的選項中選擇「加載設定檔」按鈕加載設定。格式應為 .xml</string>
 
+    <!-- AGC 設定檔：加載設定檔（取景器上的選項） -->
+    <string name="agc_config_load_btn_title">加載設定檔</string>
+
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
