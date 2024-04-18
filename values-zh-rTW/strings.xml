@@ -209,6 +209,9 @@
     <!-- AGC 曲線設定：色調預設曲線 -->
     <string name="tone_curve_preset">色調預設曲線</string>
 
+    <!-- AGC 曲線設定：伽瑪預設曲線 -->
+    <string name="gamma_curve_preset">伽瑪預設曲線</string>
+
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
