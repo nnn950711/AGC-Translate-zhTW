@@ -192,6 +192,10 @@
     <!-- AGC 相機庫 -->
     <string name="custom_lib_setting_title">相機庫</string>
 
+    <!-- AGC 相機庫：加載自訂相機庫 -->
+    <string name="load_libs_title">加載自訂相機庫</string>
+    <string name="load_libs_summary">格式應為 .so</string>
+
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
