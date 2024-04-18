@@ -203,6 +203,9 @@
     <!-- AGC 相機庫：刪除相機庫 -->
     <string name="delete_libs_title">刪除相機庫</string>
 
+    <!-- AGC 曲線設定 -->
+    <string name="curves_settings_title">曲線設定</string>
+
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
