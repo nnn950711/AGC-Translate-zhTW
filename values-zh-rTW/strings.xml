@@ -186,6 +186,9 @@
     <string name="import_lut_title">匯入 LUT 文件</string>
     <string name="import_lut_summary">格式應為 .png 或 .cube</string>
 
+    <!-- AGC LUT（查找表）：刪除 LUT 文件 -->
+    <string name="delete_lut_title">刪除 LUT 文件</string>
+
     <!-- AGC AWB（自動白平衡） -->
     <string name="awb_title">AWB（自動白平衡）</string>
 
