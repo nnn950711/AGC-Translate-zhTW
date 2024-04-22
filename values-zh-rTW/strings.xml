@@ -90,6 +90,10 @@
     <string name="lens_switch_front_restart_title">切換前鏡頭後重新啟動</string>
     <string name="lens_switch_front_restart_summary">切換鏡頭後會重新加載設定檔</string>
 
+    <!-- AGC 圖像處理 -->
+    <string name="ptchr_group_title">圖像處理</string>
+    <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
+
     <!-- AGC 浮水印 -->
     <string name="pref_watermark_title">浮水印</string>
     <string name="pref_watermark_summary">自訂浮水印</string>
