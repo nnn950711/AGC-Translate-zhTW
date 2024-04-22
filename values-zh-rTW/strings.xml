@@ -94,6 +94,9 @@
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
 
+    <!-- AGC 圖像處理：主設定 -->
+    <string name="lib_main_settings_title">主設定</string>
+
     <!-- AGC 浮水印 -->
     <string name="pref_watermark_title">浮水印</string>
     <string name="pref_watermark_summary">自訂浮水印</string>
