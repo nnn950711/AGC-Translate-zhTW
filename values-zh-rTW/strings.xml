@@ -100,6 +100,9 @@
     <!-- AGC 圖像處理：進階 -->
     <string name="lib_advanced_title">進階</string>
 
+    <!-- AGC 圖像處理：銳利度 -->
+    <string name="lib_sharpness_title">銳利度</string>
+
     <!-- AGC 浮水印 -->
     <string name="pref_watermark_title">浮水印</string>
     <string name="pref_watermark_summary">自訂浮水印</string>
