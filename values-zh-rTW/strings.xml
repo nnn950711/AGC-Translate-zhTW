@@ -181,6 +181,10 @@
     <!-- AGC 色彩管理 -->
     <string name="color_options_title">色彩管理</string>
 
+    <!-- AGC 色彩管理：色彩設定 -->
+    <string name="color_settings_title">色彩設定</string>
+    <string name="color_settings_summary">色彩校正轉換</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
