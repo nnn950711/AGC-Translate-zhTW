@@ -150,6 +150,9 @@
     <string name="gcam_lens_logic_16">Rear Ultrawide Max Res</string>
     <string name="gcam_lens_logic_17">Rear Regular Roshi</string>
 
+    <!-- AGC HDR+ 幀數 -->
+    <string name="hdrplus_frames_count_title">HDR+ 幀數（預設值：0）</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
