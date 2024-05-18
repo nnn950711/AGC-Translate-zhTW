@@ -101,6 +101,9 @@
     <!-- AGC HDR+ 選項 -->
     <string name="hdrplus_options_title">HDR+ 選項</string>
 
+    <!-- AGC HDR+ 選項：HDR+ 模型 -->
+    <string name="model_title">HDR+ 模型</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
