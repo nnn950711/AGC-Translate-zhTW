@@ -199,6 +199,11 @@
     <string name="_rg">_RG_（預設值：-0.937）</string>
     <string name="_rb">_RB_（預設值：0.257）</string>
 
+    <!-- AGC 自訂色彩轉換：綠 -->
+    <string name="_gr">_GR_（預設值：-0.148）</string>
+    <string name="_gg">_GG_（預設值：1.062）</string>
+    <string name="_gb">_GB_（預設值：0.085）</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
