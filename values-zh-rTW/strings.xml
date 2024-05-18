@@ -162,6 +162,9 @@
     <!-- AGC HDR+ 幀數：「夜視」幀數 -->
     <string name="ns_frame_count_title">「夜視」幀數</string>
 
+    <!-- AGC HDR+ 幀數：「天文」幀數 -->
+    <string name="astro_frame_count_title">「天文」幀數</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
