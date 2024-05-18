@@ -236,6 +236,9 @@
     <!-- AGC 白平衡：飽和度 -->
     <string name="cct_auto_ct_saturation">飽和度</string>
 
+    <!-- AGC 白平衡：色相 -->
+    <string name="cct_auto_ct_hue">色相（單位：度）</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
