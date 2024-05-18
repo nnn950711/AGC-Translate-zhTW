@@ -7,6 +7,10 @@
     <string name="disable">停用</string>
     <string name="quit">退出</string>
     <string name="load">加載</string>
+    <string name="red">紅</string>
+    <string name="green">綠</string>
+    <string name="blue">藍</string>
+
     
     <!-- AGC 預設 -->
     <string name="all_default_auto">自動</string>
