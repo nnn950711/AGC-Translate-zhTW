@@ -246,6 +246,9 @@
     <!-- AGC AWB 設定：AWB 比率 -->
     <string name="awbratio_title">AWB 比率</string>
 
+    <!-- AGC AWB 設定：「藍/綠」係數 -->
+    <string name="bg_coeff">「藍/綠」係數（預設值：1.0）</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
