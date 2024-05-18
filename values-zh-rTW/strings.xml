@@ -221,6 +221,9 @@
     <!-- AGC 白平衡：白平衡校正 -->
     <string name="cct_auto_ct_wb_correction">白平衡校正</string>
 
+    <!-- AGC 白平衡：白平衡色彩空間修復 -->
+    <string name="cct_auto_ct_wb_color_space_fix">白平衡色彩空間修復</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
