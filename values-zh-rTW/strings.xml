@@ -227,6 +227,9 @@
     <!-- AGC 白平衡：色溫 -->
     <string name="cct_auto_ct_wb_offset">色溫（- 冷 / + 暖）</string>
 
+    <!-- AGC 白平衡：強度 -->
+    <string name="cct_auto_ct_wb_intensity">強度</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
