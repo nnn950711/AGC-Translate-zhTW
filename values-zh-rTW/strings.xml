@@ -126,6 +126,9 @@
     <string name="shasta_500">Green Split x500</string>
     <string name="shasta_1000">Green Split x1000</string>
 
+    <!-- AGC HDR+ 選項：HDR+ 的 RAW 格式 -->
+    <string name="raw_title">HDR+ 的 RAW 格式</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
