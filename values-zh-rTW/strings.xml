@@ -194,6 +194,11 @@
     <!-- AGC 色彩設定：自訂色彩轉換 -->
     <string name="color_transform_custom_title">自訂色彩轉換</string>
 
+    <!-- AGC 自訂色彩轉換：紅 -->
+    <string name="_rr">_RR_（預設值：1.679）</string>
+    <string name="_rg">_RG_（預設值：-0.937）</string>
+    <string name="_rb">_RB_（預設值：0.257）</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
