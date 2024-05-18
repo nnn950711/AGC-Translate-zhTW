@@ -265,6 +265,9 @@
     <!-- AGC 圖像處理：銳利度 -->
     <string name="lib_sharpness_title">銳利度</string>
 
+    <!-- AGC 圖像處理：平滑和降噪 -->
+    <string name="smoothing_and_noise">平滑和降噪</string>
+
     <!-- AGC 圖像處理：處理 -->
     <string name="lib_processing_title">處理</string>
 
