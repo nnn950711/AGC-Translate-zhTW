@@ -185,6 +185,12 @@
     <string name="color_settings_title">色彩設定</string>
     <string name="color_settings_summary">色彩校正轉換</string>
 
+    <!-- AGC 色彩設定：色彩轉換 -->
+    <string name="color_transform_title">色彩轉換</string>
+    <string name="color_transform_custom">自訂色彩轉換</string>
+    <string name="color_transform_system">系統</string>
+    <string name="color_transform_fix_standart">標準</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
