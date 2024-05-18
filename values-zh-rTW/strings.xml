@@ -113,6 +113,19 @@
     <string name="merge_3">3（RGB 色彩空間）</string>
     <string name="merge_4">4（無效）</string>
 
+    <!-- AGC HDR+ 選項：Shasta Factor -->
+    <string name="shasta_factor">Shasta Factor</string>
+    <string name="shasta_summary">Bracketing = %s</string>
+    <string name="shasta_def">預設</string>
+    <string name="shasta_off">關閉</string>
+    <string name="shasta_1">Green Split x1</string>
+    <string name="shasta_5">Green Split x5</string>
+    <string name="shasta_10">Green Split x10</string>
+    <string name="shasta_25">Green Split x25</string>
+    <string name="shasta_100">Green Split x100</string>
+    <string name="shasta_500">Green Split x500</string>
+    <string name="shasta_1000">Green Split x1000</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
