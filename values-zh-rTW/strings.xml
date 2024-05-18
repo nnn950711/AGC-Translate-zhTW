@@ -11,6 +11,10 @@
     <string name="green">綠</string>
     <string name="blue">藍</string>
 
+    <!-- AGC Telegram 群組 -->
+    <string name="telegram_group_title">AGC 討論群組</string>
+    <string name="telegram_group_action">前往</string>
+    <string name="telegram_group_photography_title">AGC 攝影群組</string>
     
     <!-- AGC 預設 -->
     <string name="all_default_auto">自動</string>
