@@ -209,6 +209,15 @@
     <string name="_bg">_BG_（預設值：-0.914）</string>
     <string name="_bb">_BB_（預設值：1.828）</string>
 
+    <!-- AGC 色彩設定：白平衡 -->
+    <string name="cct_auto_ct_wb">白平衡</string>
+    <string name="cct_auto_ct_global">全域</string>
+    <string name="cct_auto_ct_red">紅</string>
+    <string name="cct_auto_ct_green">綠</string>
+    <string name="cct_auto_ct_blue">藍</string>
+    <string name="cct_auto_ct_yellow">黃</string>
+    <string name="cct_auto_ct_cyan">青</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
