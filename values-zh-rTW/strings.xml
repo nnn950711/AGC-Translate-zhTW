@@ -156,6 +156,9 @@
     <!-- AGC HDR+ 幀數：「零快門延遲」幀數 -->
     <string name="zsl_frame_count_title">「零快門延遲」幀數</string>
 
+    <!-- AGC HDR+ 幀數：「HDRE」幀數 -->
+    <string name="frame_count_title">「HDRE」幀數</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
