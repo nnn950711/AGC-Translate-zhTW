@@ -129,6 +129,27 @@
     <!-- AGC HDR+ 選項：HDR+ 的 RAW 格式 -->
     <string name="raw_title">HDR+ 的 RAW 格式</string>
 
+    <!-- AGC HDR+ 選項：Google 感測器邏輯 -->
+    <string name="gcam_lens_logic_title">Google 感測器邏輯</string>
+    <string name="gcam_lens_logic_0">Rear Regular</string>
+    <string name="gcam_lens_logic_1">Front Regular</string>
+    <string name="gcam_lens_logic_2">Front Ultrawide</string>
+    <string name="gcam_lens_logic_3">Front Logical</string>
+    <string name="gcam_lens_logic_4">Rear Telephoto</string>
+    <string name="gcam_lens_logic_5">Rear Logical</string>
+    <string name="gcam_lens_logic_6">Front Infrared</string>
+    <string name="gcam_lens_logic_7">Rear Telephoto Binned</string>
+    <string name="gcam_lens_logic_8">Rear Ultrawide</string>
+    <string name="gcam_lens_logic_9">Rear Ultrawide Binned</string>
+    <string name="gcam_lens_logic_10">Rear Regular Binned</string>
+    <string name="gcam_lens_logic_11">Rear Regular Remozaiked</string>
+    <string name="gcam_lens_logic_12">Rear Telephoto Remosaicked</string>
+    <string name="gcam_lens_logic_13">Front Secondary</string>
+    <string name="gcam_lens_logic_14">Rear Regular Max Res</string>
+    <string name="gcam_lens_logic_15">Rear Telephoto Max Res</string>
+    <string name="gcam_lens_logic_16">Rear Ultrawide Max Res</string>
+    <string name="gcam_lens_logic_17">Rear Regular Roshi</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
