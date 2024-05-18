@@ -169,6 +169,9 @@
     <string name="expcomp_title">曝光補償</string>
     <string name="expcomp_0">0（預設）</string>
 
+    <!-- AGC 曝光補償：普通模式 -->
+    <string name="normal_expcomp_title">普通模式</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
