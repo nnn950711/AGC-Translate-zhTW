@@ -104,6 +104,15 @@
     <!-- AGC HDR+ 選項：HDR+ 模型 -->
     <string name="model_title">HDR+ 模型</string>
 
+    <!-- AGC HDR+ 選項：合併方法 -->
+    <string name="merge_title">合併方法</string>
+    <string name="merge_auto">自動</string>
+    <string name="merge_0">0（維納濾波）</string>
+    <string name="merge_1">1（Sabre）</string>
+    <string name="merge_2">2（拜爾濾色鏡）</string>
+    <string name="merge_3">3（RGB 色彩空間）</string>
+    <string name="merge_4">4（無效）</string>
+
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
     <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
