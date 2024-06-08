@@ -5,4 +5,6 @@
 values 資料夾裡是原文（僅供查看）  
 values-zh-rTW 資料夾裡是要翻譯的文件
 
-加入 Telegram 群組來獲取編譯好的安裝檔：https://t.me/+LJ9d0rMXnPRmNDI1
+AGC 官方頻道：https://t.me/AGC_AND_MORE_MOD  
+AGC 官方討論群組：https://t.me/AGC_AND_MORE  
+加入我的 Telegram 頻道即可獲取最新編譯好的翻譯安裝檔：https://t.me/+LJ9d0rMXnPRmNDI1
