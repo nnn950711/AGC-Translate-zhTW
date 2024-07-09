@@ -254,7 +254,7 @@
 
     <!-- AGC 圖像處理 -->
     <string name="ptchr_group_title">圖像處理</string>
-    <string name="ptchr_group_summary">可以從這裡提高照片的品質</string>
+    <string name="ptchr_group_summary">可以從這裡提高相片的品質</string>
 
     <!-- AGC 圖像處理：主設定 -->
     <string name="lib_main_settings_title">主設定</string>
@@ -450,11 +450,11 @@
 
     <!-- AGC 擴展設定：幾何校準 RAW 修復 -->
     <string name="geometric_calibration_raw_fix_title">幾何校準 RAW 修復</string>
-    <string name="geometric_calibration_raw_fix_summary">允許 OnePlus 裝置拍攝出的 RAW 文件匯入 Snapseed 和 Lightroom，但可能會增加照片的雜訊。</string>
+    <string name="geometric_calibration_raw_fix_summary">允許 OnePlus 裝置拍攝出的 RAW 文件匯入 Snapseed 和 Lightroom，但可能會增加相片的雜訊。</string>
 
-    <!-- AGC 擴展設定：照片的前綴名稱 -->
-    <string name="prefix_title">照片的前綴名稱</string>
-    <string name="prefix_title_add">新增照片的前綴名稱</string>
+    <!-- AGC 擴展設定：相片的前綴名稱 -->
+    <string name="prefix_title">相片的前綴名稱</string>
+    <string name="prefix_title_add">新增相片的前綴名稱</string>
     
     <!-- AGC 擴展設定：影片的前綴名稱 -->
     <string name="vid_prefix_title">影片的前綴名稱</string>
@@ -463,7 +463,7 @@
     <!-- AGC 擴展設定：文件的後綴名稱 -->
     <string name="suffix_title">文件的後綴名稱</string>
     <string name="suffix_title_add">新增文件的後綴名稱</string>
-    <string name="suffix_summary">輸入用於拍攝出的照片或影片檔案的後綴名</string>
+    <string name="suffix_summary">輸入用於拍攝出的相片或影片檔案的後綴名</string>
 
     <!-- AGC 擴展設定：更改標題上的日期和時間格式 -->
     <string name="data_time_title">更改標題上的日期和時間格式</string>
@@ -531,7 +531,7 @@
 
     <!-- AGC 實驗性設定：停用丟棄幀 -->
     <string name="disabled_discard_frames_title">停用丟棄幀</string>
-    <string name="disabled_discard_frames_summary">可提高照片的清晰度，但由於無法修復移動的主體，所以可能會導致殘影。</string>
+    <string name="disabled_discard_frames_summary">可提高相片的清晰度，但由於無法修復移動的主體，所以可能會導致殘影。</string>
 
     <!-- AGC 曲線按鈕 -->
     <string name="curve_button">曲線按鈕</string>
@@ -564,7 +564,7 @@
 
     <!-- AGC 關於我們：點擊下載 AGC Toolkit -->
     <string name="pref_gcamtools_title">點擊下載 AGC Toolkit</string>
-    <string name="pref_gcamtools_summary">AGC Toolkit 支持使用 LUT 處理你的照片、新增浮水印、調整設定檔、查看 libpatch 書籤</string>
+    <string name="pref_gcamtools_summary">AGC Toolkit 支持使用 LUT 處理你的相片、新增浮水印、調整設定檔、查看 libpatch 書籤</string>
 
     <!-- AGC 關於我們：首席開發者 -->
     <string name="pref_lead_developer_title">首席開發者</string>
