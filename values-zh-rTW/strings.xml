@@ -423,8 +423,8 @@
     <string name="track_focus_title">焦點追蹤</string>
     <string name="track_focus_summary">對於拍攝移動的對象會比較有用</string>
 
-    <!-- AGC 擴展設定：焦點追蹤鎖焦時長 -->
-    <string name="focus_lock_time_title">焦點追蹤鎖焦時長</string>
+    <!-- AGC 擴展設定：焦點追蹤的鎖焦時長 -->
+    <string name="focus_lock_time_title">焦點追蹤的鎖焦時長</string>
     <string name="focus_lock_time_default">預設</string>
     <string name="focus_lock_time_4">4 秒</string>
     <string name="focus_lock_time_6">6 秒</string>
