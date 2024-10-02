@@ -385,8 +385,8 @@
     <!-- AGC 1/8x 慢動作影格速率 -->
     <string name="pref_slow8x_title">1/8x 慢動作影格速率</string>
 
-    <!-- AGC 觀景窗的目標影格速率範圍 -->
-    <string name="viewfinder_tweak_title">觀景窗的目標影格速率範圍</string>
+    <!-- AGC 自動曝光的目標影格速率範圍 -->
+    <string name="viewfinder_tweak_title">自動曝光的目標影格速率範圍</string>
 
     <!-- AGC 覆蓋預設的影格速率 -->
     <string name="vffps_title">覆蓋預設的影格速率</string>
